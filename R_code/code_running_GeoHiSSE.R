@@ -50,6 +50,13 @@ dat=states
 
 # We used the same 18 models of Caetano et al. (2018) (plus a second set of models including jump dispersal) - see their original publication for more information
 
+# The code below is mostly copied from the supplementary material of Caetano et al. (2018). SEE THEIR ORIGINAL PUBLICATION FOR MORE INFORMATION. 
+
+# Caetano, D. S., O'Meara, B. C., & Beaulieu, J. M. (2018). 
+# Hidden state models improve state‐dependent diversification approaches, 
+# including biogeographical models. Evolution, 72(11), 2308-2324.
+# https://doi.org/10.1111/evo.13602
+
 ###############################################################################
 ## Block of GeoSSE-like models.
 ## Here extirpation is linked to range reduction.
