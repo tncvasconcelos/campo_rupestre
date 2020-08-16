@@ -1,0 +1,80 @@
+hpd_name,cleaned_name,accepted_name,clade,sampling_fraction,,ITS (nuclear),ETS (nuclear),rpl32 - trnL (plastid),ndhf (plastid),,Reference ,,campo_rupestre,non_campo_rupestre
+Albertinia_brasiliensis,Albertinia_brasiliensis,Albertinia brasiliensis Spreng.,Albertinia,1,,EF155744.1,KM278384.1,KM243764.1,EF155656.1,,Loeuille et al. 2015,,1,1
+Anteremanthus_hatschbachii,Anteremanthus_hatschbachii,Anteremanthus hatschbachii H.Rob.,Anteremanthus,0.5,,KM053285.1,KM278385.1,KM243765.1,KM243835.1,,Loeuille et al. 2015,,1,0
+Blanchetia_heterotricha,Blanchetia_heterotricha,Blanchetia heterotricha DC.,Blanchetia,0.5,,KM053288.1,KM278387.1,KM243768.1,KM243836.1,,Loeuille et al. 2015,,1,1
+Chresta_pacourinoides,Chresta_pacourinoides,Chresta pacourinoides (Mart. ex DC.) Siniscalchi & Loeuille,(outgroup),(outgroup),,KM053327.1,KM278460.1,KM243815.1,KM243839.1,,Loeuille et al. 2015,,0,1
+Chronopappus_bifrons,Chronopappus_bifrons,Chronopappus bifrons (DC. ex Pers.) DC.,Chronopappus,0.5,,KM053295.1,KM278388.1,KM243776.1,KM243845.1,,Loeuille et al. 2015,,1,0
+Eremanthus_arboreus,Eremanthus_arboreus,Eremanthus arboreus (Gardner) MacLeish,Eremanthus,0.74,,KM278328.1,KM278390.1,KM358496.1,KM278466.1,,Loeuille et al. 2015,,0,1
+Eremanthus_argenteus,Eremanthus_argenteus,Eremanthus argenteus MacLeish & H.Schumach.,Eremanthus,0.74,,,KM278391.1,KM358510.1,KM278467.1,,Loeuille et al. 2015,,1,0
+Eremanthus_auriculatus,Eremanthus_auriculatus,Eremanthus auriculatus MacLeish & H.Schumach.,Eremanthus,0.74,,KM278329.1,KM278392.1,KM358491.1,KM278468.1,,Loeuille et al. 2015,,1,0
+Eremanthus_brevifolius,Eremanthus_brevifolius,Eremanthus brevifolius Loeuille,Eremanthus,0.74,,KM278330.1,KM278393.1,KM358498.1,KM278469.1,,Loeuille et al. 2015,,1,0
+Eremanthus_capitatus,Eremanthus_capitatus,Eremanthus capitatus (Spreng.) MacLeish,Eremanthus,0.74,,KM278331.1,KM278394.1,KM358497.1,KM278470.1,,Loeuille et al. 2015,,1,1
+Eremanthus_cinctus,Eremanthus_cinctus,Eremanthus cinctus Baker,Eremanthus,0.74,,KM278332.1,KM278395.1,KM358471.1,KM278471.1,,Loeuille et al. 2015,,0,1
+Eremanthus_crotonoides,Eremanthus_crotonoides,Eremanthus crotonoides (DC.) Sch.Bip.,incertaesedis,1,,KM278333.1,KM278396.1,KM358504.1,KM278472.1,,Loeuille et al. 2015,,1,1
+Eremanthus_elaeagnus,Eremanthus_elaeagnus,Eremanthus elaeagnus (Mart. ex DC.) Sch.Bip.,Eremanthus,0.74,,KM278334.1,KM278397.1,KM358485.1,KM278473.1,,Loeuille et al. 2015,,1,0
+Eremanthus_erythropappus,Eremanthus_erythropappus,Eremanthus erythropappus (DC.) MacLeish,Eremanthus,0.74,,KM053303.1,KM278398.1,KM243789.1,KM243850.1,,Loeuille et al. 2015,,1,1
+Eremanthus_glomerulatus,Eremanthus_glomerulatus,Eremanthus glomerulatus Less.,Eremanthus,0.74,,KM053304.1,KM278399.1,KM243790.1,KM243851.1,,Loeuille et al. 2015,,1,1
+Eremanthus_goyazensis,Eremanthus_goyazensis,Eremanthus goyazensis (Gardner) Sch.Bip.,Eremanthus,0.74,,KM278335.1,KM278400.1,KM358492.1,KM278474.1,,Loeuille et al. 2015,,1,1
+Eremanthus_incanus,Eremanthus_incanus,Eremanthus incanus (Less.) Less.,Eremanthus,0.74,,KM278336.1,KM278401.1,KM358486.1,KM278475.1,,Loeuille et al. 2015,,1,1
+Eremanthus_leucodendron,Eremanthus_leucodendron,Eremanthus leucodendron Mattf.,Lychnophorella,0.55,,KM278337.1,KM278402.1,KM358522.1,KM278476.1,,Loeuille et al. 2015,,1,0
+Eremanthus_mattogrossensis,Eremanthus_mattogrossensis,Eremanthus mattogrossensis Kuntze,Eremanthus,0.74,,KM278338.1,KM278403.1,KM358509.1,KM278477.1,,Loeuille et al. 2015,,1,1
+Eremanthus_mollis,Eremanthus_mollis,Eremanthus mollis Sch.Bip.,Eremanthus,0.74,,KM278339.1,KM278404.1,KM358493.1,KM278478.1,,Loeuille et al. 2015,,1,1
+Eremanthus_pabstii,Eremanthus_pabstii,Eremanthus pabstii G.M.Barroso,Piptolepis,0.5,,KM278340.1,KM278405.1,KM358517.1,KM278479.1,,Loeuille et al. 2015,,1,1
+Eremanthus_polycephalus,Eremanthus_polycephalus,Eremanthus polycephalus (DC.) MacLeish,Eremanthus,0.74,,KM278341.1,KM278406.1,KM358500.1,KM278480.1,,Loeuille et al. 2015,,1,0
+Eremanthus_uniflorus,Eremanthus_uniflorus,Eremanthus uniflorus MacLeish & H.Schumach.,Eremanthus,0.74,,KM278342.1,KM278407.1,KM358490.1,KM278481.1,,Loeuille et al. 2015,,1,1
+Eremanthus_veadeiroensis,Eremanthus_veadeiroensis,Eremanthus veadeiroensis H.Rob.,Eremanthus,0.74,,KM278343.1,KM278408.1,,KM278482.1,,Loeuille et al. 2015,,1,0
+Gorceixia_decumens,Gorceixia_decumens,Gorceixia decurrens Baker ,Gorceixia,1,,EF155773.1,KM278409.1,KM243792.1,EF155685.1,,Loeuille et al. 2015,,1,1
+Heterocoma_albida,Heterocoma_albida,Heterocoma albida (DC. ex Pers.) DC.,Heterocoma,1,,KM053306.1,KM278411.1,KM243794.1,KM243852.1,,Loeuille et al. 2015,,1,0
+Heterocoma_ekmaniana,Heterocoma_ekmaniana,"Heterocoma ekmaniana (Philipson) Loeuille, J. N. Nakaj. & Semir",Heterocoma,1,,KM053339.1,KM278464.1,KM243834.1,KM243853.1,,Loeuille et al. 2015,,1,0
+Heterocoma_erecta,Heterocoma_erecta,"Heterocoma erecta (H. Rob.) Loeuille, J. N. Nakaj. & Semir",Heterocoma,1,,KM053287.1,,KM243767.1,KM243854.1,,Loeuille et al. 2015,,1,0
+Heterocoma_gracilis,Heterocoma_gracilis,"Heterocoma gracilis Loeuille, J. N. Nakaj. & Semir",Heterocoma,1,,KM278345.1,KM278412.1,KM358472.1,KM278484.1,,Loeuille et al. 2015,,1,0
+Heterocoma_lanuginosa,Heterocoma_lanuginosa,"Heterocoma lanuginosa (Glaz. ex Oliv.) Loeuille, J.N. Nakaj. & Semir",Heterocoma,1,,,,KM243819.1,,,Loeuille et al. 2015,,1,0
+Heterocoma_robinsoniana,Heterocoma_robinsoniana,"Heterocoma robinsoniana Loeuille, J. N. Nakaj. & Semir",Heterocoma,1,,KM278346.1,KM278413.1,KM358503.1,KM278485.1,,Loeuille et al. 2015,,1,0
+Hololepis_pedunculata,Hololepis_pedunculata,Hololepis pedunculata (DC. ex Pers.) DC.,Hololepis,0.5,,KM053307.1,KM278414.1,KM243795.1,KM243855.1,,Loeuille et al. 2015,,1,1
+Lychnophora_bishopii,Lychnophora_bishopii,Lychnophora bishopii H.Rob.,Lychnophorella,0.55,,KM053315.1,KM278419.1,KM243804.1,KM243863.1,,Loeuille et al. 2015,,1,0
+Lychnophora_crispa,Lychnophora_crispa,Lychnophora crispa Mattf.,Lychnophora,0.57,,KM278350.1,KM278420.1,KM358473.1,KM278489.1,,Loeuille et al. 2015,,1,0
+Lychnophora_diamantinana,Lychnophora_diamantinana,Lychnophora diamantinana Coile & Jones,Lychnophora,0.57,,KM278351.1,KM278421.1,KM358514.1,KM278490.1,,Loeuille et al. 2015,,1,0
+Lychnophora_ericoides,Lychnophora_ericoides,Lychnophora ericoides Mart.,Lychnophora,0.57,,KM053316.1,KM278422.1,KM243805.1,KM243864.1,,Loeuille et al. 2015,,1,0
+Lychnophora_gardneri,Lychnophora_gardneri,Lychnophora gardneri Sch.Bip.,Lychnophora,0.57,,KM278352.1,KM278423.1,KM358512.1,KM278491.1,,Loeuille et al. 2015,,1,0
+Lychnophora_granmogolensis,Lychnophora_granmogolensis,Lychnophora granmogolensis (Duarte) Semir,Lychnophora,0.57,,KM278353.1,KM278424.1,KM358501.1,KM278492.1,,Loeuille et al. 2015,,1,0
+Lychnophora_humillima,Lychnophora_humillima,Lychnophora humillima Sch.Bip.,Lychnocephalus,1,,KM278354.1,KM278425.1,KM358494.1,KM278493.1,,Loeuille et al. 2015,,1,0
+Lychnophora_markgravii,Lychnophora_markgravii,Lychnophora markgravii G.M.Barroso,Maschalostachys,1,,KM278357.1,KM278428.1,KM358480.1,KM278496.1,,Loeuille et al. 2015,,1,0
+Lychnophora_mello_barretoi,Lychnophora_mello_barretoi,,Lychnocephalus,1,,KM278358.1,KM278430.1,KM358513.1,KM278497.1,,Loeuille et al. 2015,,1,0
+Lychnophora_passerina,Lychnophora_passerina,Lychnophora passerina (Mart. ex DC.) Gardner,Lychnophora,0.57,,KM053317.1,KM278431.1,KM243806.1,KM243865.1,,Loeuille et al. 2015,,1,0
+Lychnophora_pinaster,Lychnophora_pinaster,Lychnophora pinaster Mart.,Lychnophora,0.57,,KM278360.1,KM278432.1,KM358483.1,KM278499.1,,Loeuille et al. 2015,,1,1
+Lychnophora_ramosissima,Lychnophora_ramosissima,Lychnophora ramosissima Gardner,Lychnophora,0.57,,KM278361.1,KM278433.1,KM358515.1,KM278500.1,,Loeuille et al. 2015,,1,0
+Lychnophora_regis,Lychnophora_regis,Lychnophora regis H.Rob.,Lychnophorella,0.55,,KM278362.1,KM278434.1,KM358523.1,KM278501.1,,Loeuille et al. 2015,,1,0
+Lychnophora_salicifolia,Lychnophora_salicifolia,Lychnophora salicifolia Mart.,Lychnophora,0.57,,KM053318.1,KM278435.1,KM243807.1,KM243866.1,,Loeuille et al. 2015,,1,0
+Lychnophora_santosii,Lychnophora_santosii,Lychnophora santosii H.Rob.,Lychnophorella,0.55,,KM278363.1,KM278436.1,KM358488.1,KM278502.1,,Loeuille et al. 2015,,1,0
+Lychnophora_sellowii,Lychnophora_sellowii,Lychnophora sellowii Sch.Bip.,Lychnocephalus,1,,KM278364.1,KM278437.1,KM358495.1,KM278503.1,,Loeuille et al. 2015,,1,0
+Lychnophora_sp_BL_2014b,Lychnophora_sp1,NA,Lychnocephalus,1,,KM278355.1,KM278426.1,KM358502.1,KM278494.1,,Loeuille et al. 2015,,1,0
+Lychnophora_sp_BL_2014c,Lychnophora_sp2,NA,Maschalostachys2,1,,KM278356.1,KM278427.1,KM358474.1,KM278495.1,,Loeuille et al. 2015,,1,0
+Lychnophora_sp_BL_2014a,Lychnophora_sp3,NA,Lychnophora,0.57,,KM278359.1,KM278429.1,KM358475.1,KM278498.1,,Loeuille et al. 2015,,1,0
+Lychnophora_syncephala,Lychnophora_syncephala,Lychnophora syncephala (Sch.Bip.) Sch.Bip.,Eremanthus,0.74,,KM278365.1,KM278438.1,KM358487.1,KM278504.1,,Loeuille et al. 2015,,1,1
+Lychnophora_tomentosa,Lychnophora_tomentosa,Lychnophora tomentosa (Mart. ex DC.) Sch.Bip.,Lychnocephalus,1,,KM278366.1,KM278439.1,KM358525.1,KM278505.1,,Loeuille et al. 2015,,1,0
+Lychnophora_triflora_,Lychnophora_triflora,Lychnophora triflora (Mattf.) H.Rob.,Lychnophorella,0.55,,KM278367.1,KM278440.1,KM358524.1,KM278506.1,,Loeuille et al. 2015,,1,0
+Lychnophora_villosissima,Lychnophora_villosissima,Lychnophora villosissima Mart.,Lychnophora,0.57,,KM278368.1,KM278441.1,KM358516.1,KM278507.1,,Loeuille et al. 2015,,1,0
+Lychnophoriopsis_candelabrum,Lychnophoriopsis_candelabrum,Lychnophoriopsis candelabrum (Sch.Bip.) H.Rob.,Lychnophora,0.57,,KM053319.1,KM278415.1,KM243803.1,KM243867.1,,Loeuille et al. 2015,,1,0
+Lychnophoriopsis_damazioi,Lychnophoriopsis_damazioi,Lychnophoriopsis damazioi (Beauverd) H.Rob.,incertaesedis2,1,,KM278347.1,KM278416.1,KM358508.1,KM278486.1,,Loeuille et al. 2015,,1,0
+Lychnophoriopsis_hatschbachii,Lychnophoriopsis_hatschbachii,Lychnophoriopsis hatschbachii H.Rob.,Lychnophora,0.57,,KM278348.1,KM278417.1,KM358511.1,KM278487.1,,Loeuille et al. 2015,,1,0
+Minasia_alpestris,Minasia_alpestris,Minasia alpestris (Gardner) H.Rob.,Minasia,0.71,,KM053320.1,KM278442.1,KM243808.1,KM243868.1,,Loeuille et al. 2015,,1,0
+Minasia_cabralensis,Minasia_cabralensis,Minasia cabralensis H.Rob.,Minasia,0.71,,KM278369.1,KM278443.1,KM358506.1,KM278508.1,,Loeuille et al. 2015,,1,0
+Minasia_ramosa,Minasia_ramosa,"Minasia ramosa Loeuille, H. Rob., Semir",Minasia,0.71,,KM278371.1,KM278445.1,KM358507.1,KM278510.1,,Loeuille et al. 2015,,1,0
+Minasia_scapigera,Minasia_scapigera,Minasia scapigera H.Rob.,Minasia,0.71,,KM278372.1,KM278446.1,KM358482.1,KM278511.1,,Loeuille et al. 2015,,1,0
+Minasia_sp_Loeuille_494,Minasia_sp1,NA,Minasia,0.71,,KM278370.1,KM278444.1,KM358481.1,KM278509.1,,Loeuille et al. 2015,,1,0
+Paralychnophora_atkinsiae,Paralychnophora_atkinsiae,Paralychnophora atkinsiae D.J.N.Hind,Paralychnophora,1,,KM278373.1,KM278449.1,KM358484.1,KM278512.1,,Loeuille et al. 2015,,1,0
+Paralychnophora_bicolor,Paralychnophora_bicolor,Paralychnophora bicolor (DC.) MacLeish,Paralychnophora,1,,KM278377.1,KM278453.1,KM358478.1,KM278516.1,,Loeuille et al. 2015,,1,0
+Paralychnophora_glaziouana,Paralychnophora_glaziouana,Paralychnophora glaziouana Loeuille,Paralychnophora,1,,KM053323.1,KM278450.1,KM243811.1,KM243871.1,,Loeuille et al. 2015,,1,0
+Paralychnophora_harleyi,Paralychnophora_harleyi,Paralychnophora harleyi (H.Rob.) D.J.N.Hind,Paralychnophora,1,,KM278374.1,KM278451.1,KM358476.1,KM278513.1,,Loeuille et al. 2015,,1,0
+Paralychnophora_patriciana,Paralychnophora_patriciana,Paralychnophora patriciana D.J.N.Hind,Paralychnophora,1,,KM278375.1,KM278452.1,KM358477.1,KM278514.1,,Loeuille et al. 2015,,1,0
+Paralychnophora_reflexoauriculata,Paralychnophora_reflexoauriculata,Paralychnophora reflexoauriculata (G.M.Barroso) MacLeish,Paralychnophora,1,,KM278376.1,KM278447.1,KM358470.1,KM278515.1,,Loeuille et al. 2015,,1,1
+Piptocarpha_oblonga,Piptocarpha_oblonga,Piptocarpha oblonga (Gardner) Baker,(outgroup),(outgroup),,KM053324.1,KM278454.1,KM243812.1,KM243872.1,,Loeuille et al. 2015,,1,1
+Piptolepis_ericoides,Piptolepis_ericoides,Piptolepis ericoides Sch.Bip.,Piptolepis,0.5,,KM053326.1,KM278455.1,KM243814.1,KM243874.1,,Loeuille et al. 2015,,1,0
+Piptolepis_monticola,Piptolepis_monticola,Piptolepis monticola Loeuille,Piptolepis,0.5,,KM278380.1,KM278457.1,KM358519.1,KM278519.1,,Loeuille et al. 2015,,1,0
+Piptolepis_oleaster,Piptolepis_oleaster,Piptolepis oleaster (Mart. ex DC.) Sch.Bip.,Piptolepis,0.5,,KM278379.1,KM278456.1,KM358520.1,KM278518.1,,Loeuille et al. 2015,,1,0
+Piptolepis_schultziana,Piptolepis_schultziana,Piptolepis schultziana Loeuille & D.J.N. Hind,Piptolepis,0.5,,KM278382.1,KM278459.1,KM358518.1,KM278520.1,,Loeuille et al. 2015,,1,0
+Piptolepis_sp,Piptolepis_sp1,NA,Piptolepis,0.5,,KM278381.1,KM278458.1,KM358521.1,,,Loeuille et al. 2015,,1,0
+Prestelia_eriopus,Prestelia_eriopus,Prestelia eriopus Sch.Bip.,Prestelia,0.67,,KM053328.1,KM278461.1,KM243816.1,KM243875.1,,Loeuille et al. 2015,,1,0
+Pretelia_sp_Mansanares_Verola_340,Pretelia_sp1,NA,Prestelia,0.67,,KM278383.1,KM278462.1,KM358489.1,KM278521.1,,Loeuille et al. 2015,,1,0
+Proteopsis_argentea,Proteopsis_argentea,Proteopsis argentea Mart. & Zucc. ex Sch.Bip.,Proteopsis,1,,KM053329.1,KM278463.1,KM243817.1,KM243876.1,,Loeuille et al. 2015,,1,0
+Proteopsis_sp_Mello_Silva_3008,Proteopsis_sp1,NA,Proteopsis,1,,KM278344.1,KM278410.1,KM358505.1,KM278483.1,,Loeuille et al. 2015,,1,0

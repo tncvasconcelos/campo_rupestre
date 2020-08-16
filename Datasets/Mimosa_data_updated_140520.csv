@@ -1,0 +1,539 @@
+﻿hpd_name,cleaned_name,accepted_name,clade,sampling_fraction,trnD,Reference,campo_rupestre,non_campo_rupestre
+Anadenanthera_colubrina_CEH2308,Anadenanthera_colubrina,Anadenanthera colubrina (Vell.) Brenan,(outgroup),(outgroup),FJ981975,Simon et al. (2009),(outgroup),(outgroup)
+Microlobius_foetidus_CEH2150,Microlobius_foetidus,Microlobius foetidus (Jacq.) M.Sousa & G.Andrade,(outgroup),(outgroup),FJ981976,Simon et al. (2009),(outgroup),(outgroup)
+Mimosa_acantholoba_acantholoba_RJE118,Mimosa_acantholoba_acantholoba,Mimosa acantholoba (Willd.) Poir.,B,0.75,FJ981977,Simon et al. (2009),0,1
+Mimosa_acantholoba_eurycarpa_SAMA28,Mimosa_acantholoba_eurycarpa,Mimosa acantholoba (Willd.) Poir.,B,0.75,FJ981978,Simon et al. (2009),0,1
+Mimosa_acapulcensis_ROR2,Mimosa_acapulcensis,Mimosa acapulcensis Robinson,V,0.92,FJ981979,Simon et al. (2009),0,1
+Mimosa_accedens_LMB1005,Mimosa_accedens,Mimosa accedens Barneby,O,1,MT459465,Vasconcelos et al. (2020),1,0
+Mimosa_acroconica_LMB651,x,(double entry),(double entry),(double entry),MT459466,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_acroconica_LMB662,Mimosa_acroconica,Mimosa acroconica Barneby,O,1,MT459467,Vasconcelos et al. (2020),1,0
+Mimosa_aculeaticarpa_MFS808,Mimosa_aculeaticarpa,Mimosa aculeaticarpa Ortega,B,0.75,FJ981980,Simon et al. (2009),0,1
+Mimosa_acutistipula_acutistipula_JSS878,Mimosa_acutistipula_acutistipula,Mimosa acutistipula Benth.,D,0.58,MT459468,Vasconcelos et al. (2020),0,1
+Mimosa_acutistipula_acutistipula_MFS705,x,(double entry),(double entry),(double entry),FJ981981,Simon et al. (2009),(double entry),(double entry)
+Mimosa_adamantina_adamantina_VFD459,Mimosa_adamantina_adamantina,Mimosa adamantina Barneby,X,0.5,JF694255,Simon et al. (2011),1,0
+Mimosa_adenantheroides_AMB945,Mimosa_adenantheroides,Mimosa adenantheroides (M.Martens & Galeotti) Benth.,B,0.75,FJ981982,Simon et al. (2009),0,1
+Mimosa_adenantheroides_hystricosa_PT21201,Mimosa_adenantheroides_hystricosa,Mimosa adenantheroides (M.Martens & Galeotti) Benth.,B,0.75,FJ981983,Simon et al. (2009),0,1
+Mimosa_adenocarpa_MFS728,Mimosa_adenocarpa,Mimosa adenocarpa Benth.,L,0.62,FJ981984,Simon et al. (2009),1,1
+Mimosa_adenophylla_adenophylla_JSS1188,Mimosa_adenophylla_adenophylla,Mimosa adenophylla Taub.,N,1,MT459469,Vasconcelos et al. (2020),1,1
+Mimosa_adenophylla_adenophylla_JSS988,x,(double entry),(double entry),(double entry),MT459470,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_adenophylla_MFS458,x,(double entry),(double entry),(double entry),FJ981985,Simon et al. (2009),(double entry),(double entry)
+Mimosa_adenophylla_mitis_LLCL184,Mimosa_adenophylla_mitis,Mimosa adenophylla Taub.,N,1,FJ981986,Simon et al. (2009),0,1
+Mimosa_adenotricha_LMB668,Mimosa_adenotricha,Mimosa adenotricha Benth.,O,1,MT459471,Vasconcelos et al. (2020),1,0
+Mimosa_adenotricha_LMB671,x,(double entry),(double entry),(double entry),MT459472,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_adenotricha_VFD332,x,(double entry),(double entry),(double entry),FJ981987,Simon et al. (2009),(double entry),(double entry)
+Mimosa_adpressa_Uruguay5,Mimosa_adpressa,Mimosa obstrigosa Burkart,X,0.5,MT459473,Vasconcelos et al. (2020),0,1
+Mimosa_aff._aguapeia_LMB767,x,(double entry),(double entry),(double entry),MT459474,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_aff._bathyrrhena_MFS874,x,(double entry),(double entry),(double entry),FJ981988,Simon et al. (2009),(double entry),(double entry)
+Mimosa_aff._bispiculata_LMB663,Mimosa_bispiculata,Mimosa bispiculata Barneby,O,1,MT459475,Vasconcelos et al. (2020),1,0
+Mimosa_aff._dalyi_JRIW24309,x,(double entry),(double entry),(double entry),JF694256,Simon et al. (2011),(double entry),(double entry)
+Mimosa_aff._debilis_JRIW24509,x,(double entry),(double entry),(double entry),KJ802902,Atahuachi et al. (2016),(double entry),(double entry)
+Mimosa_aff._debilis_MFS2138,x,(double entry),(double entry),(double entry),MT459476,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_aff._flagellaris_LPQ12322,x,(double entry),(double entry),(double entry),FJ981989,Simon et al. (2009),(double entry),(double entry)
+Mimosa_aff._nuda_JRIW_26735,x,(double entry),(double entry),(double entry),KJ802909,Atahuachi et al. (2016),(double entry),(double entry)
+Mimosa_aff._nuda_MFS_2313,x,(double entry),(double entry),(double entry),MT459477,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_aff._pseudofoliolosa_JBB924,x,(double entry),(double entry),(double entry),MT459478,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_aff._weberbauerii_TDP17903,x,(double entry),(double entry),(double entry),FJ981990,Simon et al. (2009),(double entry),(double entry)
+Mimosa_aff._xanthocentra_LPQ10476,x,(double entry),(double entry),(double entry),FJ981991,Simon et al. (2009),(double entry),(double entry)
+Mimosa_aff_pseudofoliolosa_JBB942,x,(double entry),(double entry),(double entry),MT459479,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_affinis_MFS814,Mimosa_affinis,Mimosa affinis Robinson,P,1,FJ981992,Simon et al. (2009),0,1
+Mimosa_aguapeia_MFS2326,Mimosa_aguapeia,Mimosa aguapeia Barneby,Y,0.83,MT459480,Vasconcelos et al. (2020),0,1
+Mimosa_albida_albida_CEH2083,Mimosa_albida_albida,Mimosa albida Willd.,T,0.78,FJ981993,Simon et al. (2009),0,1
+Mimosa_albolanata_brasiliana_LMB488,Mimosa_albolanata_brasiliana,Mimosa albolanata Taub.,O,1,MT459481,Vasconcelos et al. (2020),1,0
+Mimosa_albolanata_LMB1006,x,(double entry),(double entry),(double entry),MT459482,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_albolanata_MFS667,Mimosa_albolanata,Mimosa albolanata Taub.,O,1,FJ981994,Simon et al. (2009),0,1
+Mimosa_albolanata_paucipinna_LMB521,Mimosa_albolanata_paucipinna,Mimosa albolanata Taub.,O,1,MT459483,Vasconcelos et al. (2020),1,1
+Mimosa_amnis_atri_JSS976,x,(double entry),(double entry),(double entry),MT459484,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_amnis_atri_JSS977,Mimosa_amnis_atri,Mimosa amnis-atri Barneby,N,1,MT459485,Vasconcelos et al. (2020),0,1
+Mimosa_andina_GPL2271,Mimosa_andina,Mimosa andina Benth.,B,0.75,HM353071,Sarkinen et al. (2011),0,1
+Mimosa_andina_GPL2288,x,(double entry),(double entry),(double entry),HM353072,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_antioquensis_isthmensis_MFS860,Mimosa_antioquensis_isthmensis,Mimosa antioquensis Rudd,F,0.5,FJ981995,Simon et al. (2009),0,1
+Mimosa_antrorsa_CWF1774,Mimosa_antrorsa,Mimosa antrorsa Benth.,O,1,FJ981996,Simon et al. (2009),1,0
+Mimosa_antrorsa_LMB950,x,(double entry),(double entry),(double entry),MT459486,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_apodocarpa_JSS1105,x,(double entry),(double entry),(double entry),MT459487,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_apodocarpa_MFS635,Mimosa_apodocarpa,Mimosa apodocarpa Benth.,N,1,FJ981997,Simon et al. (2009),0,1
+Mimosa_arenosa_arenosa_JSS987,Mimosa_arenosa_arenosa,Mimosa arenosa (Willd.) Poir.,D,0.58,MT459488,Vasconcelos et al. (2020),1,1
+Mimosa_arenosa_leiocarpa_AMB923,Mimosa_arenosa_leiocarpa,Mimosa arenosa (Willd.) Poir.,D,0.58,FJ981998,Simon et al. (2009),0,1
+Mimosa_artemisiana_SMF138,Mimosa_artemisiana,Mimosa artemisiana Heringer & Paula,N,1,FJ981999,Simon et al. (2009),0,1
+Mimosa_aspera_MFS817,Mimosa_aspera,Mimosa aspera M.E.Jones,B,0.75,FJ982000,Simon et al. (2009),0,1
+Mimosa_atlantica_OSR4333,Mimosa_atlantica,Mimosa atlantica Barneby,X,0.5,FJ982001,Simon et al. (2009),0,1
+Mimosa_auriculata_CEH2405,Mimosa_auriculata,Mimosa auriculata Benth.,M,1,FJ982002,Simon et al. (2009),0,1
+Mimosa_aurivillus_APSC1226,Mimosa_aurivillus,Mimosa aurivillus Mart.,X,0.5,MT459489,Vasconcelos et al. (2020),1,0
+Mimosa_aurivillus_aurivillus_APCS996,Mimosa_aurivillus_aurivillus,Mimosa aurivillus Mart.,X,0.5,MT459490,Vasconcelos et al. (2020),1,0
+Mimosa_aurivillus_aurivillus_VFD348,x,(double entry),(double entry),(double entry),JF694257,Simon et al. (2011),(double entry),(double entry)
+Mimosa_aurivillus_calothamnus_VFD347,Mimosa_aurivillus_calothamnus,Mimosa aurivillus Mart.,X,0.5,JF694258,Simon et al. (2011),1,0
+Mimosa_bahamensis_MJW132,Mimosa_bahamensis,Mimosa bahamensis Benth.,B,0.75,FJ982003,Simon et al. (2009),0,1
+Mimosa_barretoi_APSC975,Mimosa_barretoi,Mimosa barretoi Hoehne,X,0.5,MT459491,Vasconcelos et al. (2020),0,1
+Mimosa_bathyrrhena_APSC1079,Mimosa_bathyrrhena,Mimosa bathyrrhena Barneby,X,0.5,MT459492,Vasconcelos et al. (2020),0,1
+Mimosa_benthami_MFS848,Mimosa_benthami,Mimosa benthamii J.F.Macbr.,B,0.75,FJ982004,Simon et al. (2009),0,1
+Mimosa_bifurca_ND4,Mimosa_bifurca,Mimosa bifurca Benth.,K,0.47,FJ982005,Simon et al. (2009),0,1
+Mimosa_bimucronata_MFS301,Mimosa_bimucronata,Mimosa bimucronata (DC.) Kuntze,D,0.58,FJ982006,Simon et al. (2009),0,1
+Mimosa_biuncifera_MFS805,Mimosa_biuncifera,Mimosa aculeaticarpa Ortega,B,0.75,FJ982007,Simon et al. (2009),0,1
+Mimosa_blanchetii_MFS688,Mimosa_blanchetii,Mimosa blanchetii Benth.,I,0.77,FJ982008,Simon et al. (2009),1,0
+Mimosa_boliviana_CEH2283,Mimosa_boliviana,Mimosa boliviana Benth.,W,1,HM353073,Sarkinen et al. (2011),0,1
+Mimosa_boliviana_CEH2426,x,(double entry),(double entry),(double entry),FJ982009,Simon et al. (2009),(double entry),(double entry)
+Mimosa_boliviana_JRIW15184,x,(double entry),(double entry),(double entry),HM353076,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_boliviana_JRIW19036,x,(double entry),(double entry),(double entry),HM353075,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_boliviana_TS2056,x,(double entry),(double entry),(double entry),HM353074,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_borealis_MFS873,Mimosa_borealis,Mimosa borealis A.Gray,B,0.75,FJ982010,Simon et al. (2009),0,1
+Mimosa_brachycarpa_LPQ10589,Mimosa_brachycarpa,Mimosa brachycarpa Benth.,L,0.62,FJ982011,Simon et al. (2009),1,1
+Mimosa_brevipetiolata_hirtula_LPQ12614,Mimosa_brevipetiolata_hirtula,Mimosa brevipetiolata Burkart,U,0.18,FJ982012,Simon et al. (2009),0,1
+Mimosa_busseana_GPC26,Mimosa_busseana,Mimosa busseana Harms,D,0.58,FJ982013,Simon et al. (2009),0,1
+Mimosa_caduca_GPL2376,Mimosa_caduca,Mimosa caduca Poir.,B,0.75,HM353078,Sarkinen et al. (2011),0,1
+Mimosa_caduca_GPL2916,x,(double entry),(double entry),(double entry),HM353079,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_caduca_GPL2990,x,(double entry),(double entry),(double entry),HM353077,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_caduca_GPL3006,x,(double entry),(double entry),(double entry),HM353080,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_caerulea_EKJ330,Mimosa_caerulea,Mimosa caerulea Rose,V,0.92,MT459493,Vasconcelos et al. (2020),0,1
+Mimosa_caesalpiniifolia_JSS832,x,(double entry),(double entry),(double entry),MT459494,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_caesalpiniifolia_MFS756,Mimosa_caesalpiniifolia,Mimosa caesalpiniifolia Benth.,D,0.58,FJ982014,Simon et al. (2009),0,1
+Mimosa_calcicola_MFS846,Mimosa_calcicola,Mimosa calcicola Robinson,B,0.75,FJ982015,Simon et al. (2009),0,1
+Mimosa_caliciadenia_LMB443,Mimosa_caliciadenia,Mimosa caliciadenia Barneby,O,1,MT459495,Vasconcelos et al. (2020),1,0
+Mimosa_callidryas_JMC94,Mimosa_callidryas,Mimosa callidryas Barneby,X,0.5,FJ982016,Simon et al. (2009),0,1
+Mimosa_callithrix_MFS684,Mimosa_callithrix,Mimosa callithrix Malme,R,0.59,FJ982017,Simon et al. (2009),0,1
+Mimosa_calothamnos_APSC1211,x,(double entry),(double entry),(double entry),MT459496,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_calothamnos_APSC1216,Mimosa_calothamnos,Mimosa calothamnos Mart. ex Benth.,X,0.5,MT459497,Vasconcelos et al. (2020),1,0
+Mimosa_campicola_planipes_MFS692,Mimosa_campicola_planipes,Mimosa campicola Harms,H,0.41,FJ982018,Simon et al. (2009),1,0
+Mimosa_camporum_SMF729,Mimosa_camporum,Mimosa camporum Benth.,M,1,FJ982019,Simon et al. (2009),0,1
+Mimosa_candollei_CEH2394,Mimosa_candollei,Mimosa quadrivalvis (DC.) Barneby,G,0.35,FJ982020,Simon et al. (2009),1,1
+Mimosa_sp._APSC1213,Mimosa_caracensis,Mimosa sp. ,X,0.5,MT459498,Vasconcelos et al. (2020),1,0
+Mimosa_casta_CDJ2189,Mimosa_casta,Mimosa casta L.,T,0.78,FJ982021,Simon et al. (2009),0,1
+Mimosa_ceratonia_ceratonia_JG3223,Mimosa_ceratonia_ceratonia,Mimosa ceratonia L.,D,0.58,JF694259,Simon et al. (2011),1,1
+Mimosa_ceratonia_interior_MFS727,Mimosa_ceratonia_interior,Mimosa ceratonia L.,D,0.58,FJ982022,Simon et al. (2009),1,0
+Mimosa_cf._incarum_RTP1715,x,(double entry),(double entry),(double entry),HM353081,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_cf._polycarpa_redundans_RJE89,x,(double entry),(double entry),(double entry),HM353082,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_cf._polycarpa_redundans_RTP1642,x,(double entry),(double entry),(double entry),HM353083,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_cf._weberbaueri_RTP17821,x,(double entry),(double entry),(double entry),HM353085,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_chartostegia_OSR5085,Mimosa_chartostegia,Mimosa chartostegia Barneby,X,0.5,FJ982023,Simon et al. (2009),0,1
+Mimosa_chiliomera_LMB648,Mimosa_chiliomera,Mimosa chiliomera Barneby,O,1,MT459499,Vasconcelos et al. (2020),1,0
+Mimosa_chiquitanensis_JRIW18818,x,(double entry),(double entry),(double entry),KJ802903,Atahuachi et al. (2016),(double entry),(double entry)
+Mimosa_chiquitaniensis_JRIW23707,Mimosa_chiquitaniensis,Mimosa chiquitaniensis Atahuachi & C.E.Hughes,AA,1,KJ802904,Atahuachi et al. (2016),0,1
+Mimosa_chochisensis_JRIW26504,x,(double entry),(double entry),(double entry),KJ802905,Atahuachi et al. (2016),(double entry),(double entry)
+Mimosa_chochisensis_JRIW26515,Mimosa_chochisensis,Mimosa chochisensis Atahuachi & C.E.Hughes,S,1,KJ802906,Atahuachi et al. (2016),0,1
+Mimosa_chrysastra_APSC1227,Mimosa_chrysastra,Mimosa chrysastra Benth.,X,0.5,MT459500,Vasconcelos et al. (2020),1,0
+Mimosa_chrysothrix_MFS1924,Mimosa_chrysothrix,Mimosa chrysothrix V.F.Dutra & F.C.P.Garcia,R,0.59,MT459501,Vasconcelos et al. (2020),1,0
+Mimosa_cisparanensis_MFS568,Mimosa_cisparanensis,Mimosa cisparanensis Barneby,M,1,FJ982024,Simon et al. (2009),0,1
+Mimosa_claussenii_claviceps_MFS766,Mimosa_claussenii_claviceps,Mimosa claussenii Benth.,O,1,FJ982025,Simon et al. (2009),1,0
+Mimosa_claussenii_LMB584,Mimosa_claussenii,Mimosa claussenii Benth.,O,1,MT459502,Vasconcelos et al. (2020),1,1
+Mimosa_claussenii_LMB908,x,(double entry),(double entry),(double entry),MT459503,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_claussenii_megistophylla_MFS768,Mimosa_claussenii_megistophylla,Mimosa claussenii Benth.,O,1,FJ982026,Simon et al. (2009),1,0
+Mimosa_claussenii_microphyllidia_LMB905,Mimosa_claussenii_microphyllidia,Mimosa claussenii Benth.,O,1,MT459504,Vasconcelos et al. (2020),1,0
+Mimosa_claussenii_prorsiseta_LMB563,Mimosa_claussenii_prorsiseta,Mimosa claussenii Benth.,O,1,MT459505,Vasconcelos et al. (2020),1,0
+Mimosa_colombiana_AMT21343,Mimosa_colombiana,Mimosa colombiana Britton & Killip,A,0.73,FJ982027,Simon et al. (2009),0,1
+Mimosa_coniflora_OSR3060,Mimosa_coniflora,Mimosa coniflora Burkart,X,0.5,FJ982028,Simon et al. (2009),0,1
+Mimosa_cordistipula_MFS693,Mimosa_cordistipula,Mimosa cordistipula Benth.,I,0.77,FJ982029,Simon et al. (2009),1,0
+Mimosa_coruscocaesia_JSS1186,x,(double entry),(double entry),(double entry),MT459506,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_coruscocaesia_JSS1191,x,(double entry),(double entry),(double entry),MT459507,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_coruscocaesia_RCM469,Mimosa_coruscocaesia,Mimosa coruscocaesia Barneby,N,1,FJ982030,Simon et al. (2009),0,1
+Mimosa_corynadenia_MS12896,Mimosa_corynadenia,Mimosa corynadenia Britton & Rose,OO,1,FJ982031,Simon et al. (2009),0,1
+Mimosa_costenya_MFS833,Mimosa_costenya,Mimosa costenya McVaugh,B,0.75,FJ982032,Simon et al. (2009),0,1
+Mimosa_craspedisetosa_JRIW24488,Mimosa_craspedisetosa,Mimosa craspedisetosa Fortunato & Palese,N,1,JF694260,Simon et al. (2011),0,1
+Mimosa_crassipes_APCS1222,Mimosa_crassipes,Mimosa pilulifera Benth.,X,0.5,MT459508,Vasconcelos et al. (2020),0,1
+Mimosa_cruenta_LPQ12575,Mimosa_cruenta,Mimosa cruenta Benth.,K,0.47,FJ982033,Simon et al. (2009),0,1
+Mimosa_crumenarioides_MFS722,Mimosa_crumenarioides,Mimosa crumenarioides L.P.Queiroz & G.P.Lewis,H,0.41,FJ982034,Simon et al. (2009),1,0
+Mimosa_cryptothamnos_MFS738,Mimosa_cryptothamnos,Mimosa cryptothamnos Barneby,O,1,FJ982035,Simon et al. (2009),1,0
+Mimosa_ctenodes_CEH2212,Mimosa_ctenodes,Mimosa ctenodes Barneby,W,1,FJ982036,Simon et al. (2009),0,1
+Mimosa_cuiabensis_MFS2314,Mimosa_cuiabensis,Mimosa cuiabensis L.Rico & R.Grether,H,0.41,MT459509,Vasconcelos et al. (2020),0,1
+Mimosa_cyclophylla_MFS757,Mimosa_cyclophylla,Mimosa cyclophylla Taub.,R,0.59,FJ982037,Simon et al. (2009),1,0
+Mimosa_daleoides_APSC1080,Mimosa_daleoides,Mimosa daleoides Benth.,X,0.5,MT459510,Vasconcelos et al. (2020),0,1
+Mimosa_daleoides_AS35683,x,(double entry),(double entry),(double entry),FJ982038,Simon et al. (2009),(double entry),(double entry)
+Mimosa_dalyi_JRIW16487,Mimosa_dalyi,Mimosa dalyi Barneby,N,1,FJ982039,Simon et al. (2009),0,1
+Mimosa_deamii_AMB919,Mimosa_deamii,Mimosa deamii Robinson,V,0.92,FJ982040,Simon et al. (2009),0,1
+Mimosa_debilis_debilis_CEH2393,Mimosa_debilis_debilis,Mimosa debilis Willd.,T,0.78,FJ982041,Simon et al. (2009),1,1
+Mimosa_decorticans_MFS681,Mimosa_decorticans,Mimosa decorticans Barneby,O,1,FJ982042,Simon et al. (2009),1,1
+Mimosa_delicatula_JMS262,Mimosa_delicatula,Mimosa delicatula Baill.,D,0.58,FJ982043,Simon et al. (2009),0,1
+Mimosa_densa_alligantina_LMB615,Mimosa_densa_alligantina,Mimosa densa Benth.,O,1,MT459511,Vasconcelos et al. (2020),1,0
+Mimosa_densa_densa_MFS870,Mimosa_densa_densa,Mimosa densa Benth.,O,1,FJ982044,Simon et al. (2009),1,0
+Mimosa_depauperata_MFS801,Mimosa_depauperata,Mimosa depauperata Benth.,B,0.75,FJ982045,Simon et al. (2009),0,1
+Mimosa_detinens_SANCHEZ46,Mimosa_detinens,Mimosa detinens Benth.,B,0.75,FJ982046,Simon et al. (2009),0,1
+Mimosa_dicerastes_MFS448,Mimosa_dicerastes,Mimosa dicerastes Barneby,R,0.59,FJ982047,Simon et al. (2009),1,0
+Mimosa_dichroa_JSS1104,x,(double entry),(double entry),(double entry),MT459512,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_dichroa_MLF6159,Mimosa_dichroa,Mimosa dichroa Barneby ex G.P.Lewis,B,0.75,MT459513,Vasconcelos et al. (2020),0,1
+Mimosa_diminuta_LMB939,x,(double entry),(double entry),(double entry),MT459514,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_diminuta_MFS866A,Mimosa_diminuta,Mimosa diminuta Marc.F.Simon & C.E.Hughes,O,1,FJ982101,Simon et al. (2009),1,0
+Mimosa_diplotricha_diplotricha_MFS600,x,(double entry),(double entry),(double entry),FJ982050,Simon et al. (2009),(double entry),(double entry)
+Mimosa_diplotricha_diplotricha_MFS877,Mimosa_diplotricha_diplotricha,Mimosa diplotricha Sauvalle,H,0.41,FJ982049,Simon et al. (2009),1,1
+Mimosa_discobola_MFS744,Mimosa_discobola,Mimosa discobola Barneby,R,0.59,FJ982051,Simon et al. (2009),1,1
+Mimosa_distachya_oligacantha_FK365,Mimosa_distachya_oligacantha,Mimosa distachya Cav.,B,0.75,FJ982052,Simon et al. (2009),0,1
+Mimosa_dolens_dolens_VFD352,Mimosa_dolens_dolens,Mimosa dolens Vell.,X,0.5,JF694261,Simon et al. (2011),1,0
+Mimosa_dolens_rigida_MFS879,Mimosa_dolens_rigida,Mimosa dolens Vell.,X,0.5,FJ982053,Simon et al. (2009),1,1
+Mimosa_dominarum_MFS776,Mimosa_dominarum,Mimosa dominarum Barneby,O,1,FJ982054,Simon et al. (2009),1,0
+Mimosa_dominguensis_RCB18276,Mimosa_dominguensis,Mimosa domingensis (DC.) Benth.,B,0.75,FJ982055,Simon et al. (2009),0,1
+Mimosa_dormiens_MAG6841,Mimosa_dormiens,Mimosa dormiens Willd.,J,0.6,FJ982056,Simon et al. (2009),0,1
+Mimosa_dryandroides_extratropica_OSR3449,Mimosa_dryandroides_extratropica,Mimosa dryandroides Taub.,X,0.5,FJ982057,Simon et al. (2009),0,1
+Mimosa_dutrae_JRVI680,Mimosa_dutrae,Mimosa dutrae Malme,X,0.5,MT459515,Vasconcelos et al. (2020),0,1
+Mimosa_dutrae_ND5,x,(double entry),(double entry),(double entry),FJ982058,Simon et al. (2009),(double entry),(double entry)
+Mimosa_dysocarpa_DLP880026,x,(double entry),(double entry),(double entry),MT459516,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_dysocarpa_MN296,Mimosa_dysocarpa,Mimosa dysocarpa A.Gray,B,0.75,FJ982059,Simon et al. (2009),0,1
+Mimosa_echinocaula_MFS679,Mimosa_echinocaula,Mimosa echinocaula Benth.,H,0.41,FJ982060,Simon et al. (2009),1,0
+Mimosa_elliptica_SMF2624,Mimosa_elliptica,Mimosa elliptica Benth.,J,0.6,MT459517,Vasconcelos et al. (2020),0,1
+Mimosa_emoryana_RG2842,Mimosa_emoryana,Mimosa emoryana Benth.,B,0.75,FJ982061,Simon et al. (2009),0,1
+Mimosa_ephedroides_DLP910487,Mimosa_ephedroides,Mimosa ephedroides Benth.,B,0.75,MT459518,Vasconcelos et al. (2020),0,1
+Mimosa_ervendbergii_EM35132,Mimosa_ervendbergii,Mimosa ervendbergii A.Gray,B,0.75,FJ982062,Simon et al. (2009),0,1
+Mimosa_fachinalensis_JRVI693,x,(double entry),(double entry),(double entry),MT459519,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_fachinalensis_ND16,Mimosa_fachinalensis,Mimosa fachinalensis Burkart,X,0.5,FJ982063,Simon et al. (2009),0,1
+Mimosa_fachinalensis_ND20,x,(double entry),(double entry),(double entry),FJ982064,Simon et al. (2009),(double entry),(double entry)
+Mimosa_farinosa_JRIW21535,Mimosa_farinosa,Mimosa farinosa Griseb.,D,0.58,HM353086,Sarkinen et al. (2011),0,1
+Mimosa_craspedisetosa_RRS390,Mimosa_craspedisetosa,Mimosa craspedisetosa Fortunato & Palese,N,1,MT459520,Vasconcelos et al. (2020),0,1
+Mimosa_fiebrigii_JSS912,x,(double entry),(double entry),(double entry),MT459521,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_fiebrigii_JSS913,Mimosa_fiebrigii,Mimosa fiebrigii Hassl.,N,1,MT459522,Vasconcelos et al. (2020),0,1
+Mimosa_filipes_LPQ10058,Mimosa_filipes,Mimosa filipes Mart.,H,0.41,FJ982065,Simon et al. (2009),1,1
+Mimosa_flagellaris_JRVI758,Mimosa_flagellaris,Mimosa flagellaris Benth.,U,0.18,MT459523,Vasconcelos et al. (2020),0,1
+Mimosa_flagellaris_LPQ12545,x,(double entry),(double entry),(double entry),FJ982066,Simon et al. (2009),(double entry),(double entry)
+Mimosa_flocculosa_APSC1067,x,(double entry),(double entry),(double entry),MT459524,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_flocculosa_CNPF,Mimosa_flocculosa,Mimosa flocculosa Burkart,X,0.5,FJ982067,Simon et al. (2009),0,1
+Mimosa_foliolosa_aff._foliolosa_LMB937,Mimosa_foliolosa_foliolosa,Mimosa foliolosa Benth.,O,1,MT459525,Vasconcelos et al. (2020),1,0
+Mimosa_foliolosa_aff._paranani_LMB1017,Mimosa_foliolosa_paranani,Mimosa foliolosa Benth.,O,1,MT459526,Vasconcelos et al. (2020),1,0
+Mimosa_foliolosa_brevibractea_LMB642,Mimosa_foliolosa_brevibractea,Mimosa foliolosa Benth.,O,1,MT459527,Vasconcelos et al. (2020),1,0
+Mimosa_foliolosa_brevibractea_LMB655,x,(double entry),(double entry),(double entry),MT459528,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_foliolosa_cf._gravida_LMB985,Mimosa_foliolosa_gravida,Mimosa foliolosa Benth.,O,1,MT459529,Vasconcelos et al. (2020),0,1
+Mimosa_foliolosa_foederalis_LMB1009,Mimosa_foliolosa_foederalis,Mimosa foliolosa Benth.,O,1,MT459530,Vasconcelos et al. (2020),1,0
+Mimosa_foliolosa_franciscana_LMB639,Mimosa_foliolosa_franciscana,Mimosa foliolosa Benth.,O,1,MT459531,Vasconcelos et al. (2020),1,0
+Mimosa_foliolosa_grandibractea_LMB1037,Mimosa_foliolosa_grandibractea,Mimosa foliolosa Benth.,O,1,MT459532,Vasconcelos et al. (2020),1,0
+Mimosa_foliolosa_multipinna_LMB972,Mimosa_foliolosa_multipinna,Mimosa foliolosa Benth.,O,1,MT459533,Vasconcelos et al. (2020),0,1
+Mimosa_foliolosa_pachycarpa_MFS1294,Mimosa_foliolosa_pachycarpa,Mimosa foliolosa Benth.,O,1,MT459534,Vasconcelos et al. (2020),1,0
+Mimosa_foliolosa_peregrina_CMS352,Mimosa_foliolosa_peregrina,Mimosa foliolosa Benth.,O,1,MT459535,Vasconcelos et al. (2020),1,0
+Mimosa_foliolosa_pubescens_JBB945,x,(double entry),(double entry),(double entry),MT459536,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_foliolosa_pubescens_MFS733,Mimosa_foliolosa_pubescens,Mimosa foliolosa Benth.,O,1,FJ982068,Simon et al. (2009),1,0
+Mimosa_foliolosa_vernicosa_LMB403,Mimosa_foliolosa_vernicosa,Mimosa foliolosa Benth.,O,1,MT459537,Vasconcelos et al. (2020),1,0
+Mimosa_furfuracea_APCS1065,x,(double entry),(double entry),(double entry),MT459538,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_furfuracea_OSR3500,Mimosa_furfuracea,Mimosa furfuracea Benth.,X,0.5,MT459539,Vasconcelos et al. (2020),0,1
+Mimosa_galleotti_MFS840,Mimosa_galleotti,Mimosa galeottii Benth.,B,0.75,FJ982069,Simon et al. (2009),0,1
+Mimosa_gatesiae_MFS741,Mimosa_gatesiae,Mimosa gatesiae Barneby,H,0.41,FJ982070,Simon et al. (2009),1,0
+Mimosa_gemmulata_gemmulata_JSS1200,x,(double entry),(double entry),(double entry),MT459540,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_gemmulata_gemmulata_MFS690,Mimosa_gemmulata_gemmulata,Mimosa gemmulata Barneby,N,1,FJ982071,Simon et al. (2009),1,1
+Mimosa_glutinosa_JSS852,Mimosa_glutinosa,Mimosa glutinosa Malme,N,1,MT459541,Vasconcelos et al. (2020),0,1
+Mimosa_glutinosa_JSS862,x,(double entry),(double entry),(double entry),MT459542,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_goldmanii_AMB921,Mimosa_goldmanii,Mimosa goldmanii Robinson,V,0.92,FJ982072,Simon et al. (2009),0,1
+Mimosa_gracilis_invisiformis_MFS762,Mimosa_gracilis_invisiformis,Mimosa gracilis Benth.,H,0.41,FJ982073,Simon et al. (2009),1,0
+Mimosa_gracilis_stipitata_MFS745,Mimosa_gracilis_stipitata,Mimosa gracilis Benth.,H,0.41,FJ982074,Simon et al. (2009),1,0
+Mimosa_grahamii_DLP880036,Mimosa_grahamii,Mimosa grahamii A.Gray,B,0.75,MT459543,Vasconcelos et al. (2020),0,1
+Mimosa_grandidieri_DJP56,Mimosa_grandidieri,Mimosa grandidieri Baill.,D,0.58,FJ982075,Simon et al. (2009),0,1
+Mimosa_guaranitica_JGN474,Mimosa_guaranitica,Mimosa guaranitica Chodat & Hassl.,I,0.77,FJ982076,Simon et al. (2009),1,1
+Mimosa_guatemalensis_MFS831,Mimosa_guatemalensis,Mimosa guatemalensis (Hook. & Arn.) Benth.,B,0.75,FJ982077,Simon et al. (2009),0,1
+Mimosa_guilandinae_guilandinae_MFP3958,x,(double entry),(double entry),(double entry),FJ982078,Simon et al. (2009),(double entry),(double entry)
+Mimosa_guilandinae_MFS1375,Mimosa_guilandinae,Mimosa guilandinae (DC.) Barneby,A,0.73,MT459544,Vasconcelos et al. (2020),0,1
+Mimosa_gymnas_JMS3541,Mimosa_gymnas,Mimosa gymnas Barneby,X,0.5,FJ982079,Simon et al. (2009),0,1
+Mimosa_gymnas_JRVI722,x,(double entry),(double entry),(double entry),MT459545,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_gymnas_OSR3714,x,(double entry),(double entry),(double entry),MT459546,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_hafomantsina_GPL2138,Mimosa_hafomantsina,Mimosa hafomantsina Villiers,D,0.58,FJ982080,Simon et al. (2009),0,1
+Mimosa_hamata_MFS876,Mimosa_hamata,Mimosa hamata Willd.,D,0.58,FJ982081,Simon et al. (2009),0,1
+Mimosa_hapaloclada_AP14142,x,(double entry),(double entry),(double entry),MT459547,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_hapaloclada_JSS1175,Mimosa_hapaloclada,Mimosa hapaloclada Malme,D,0.58,MT459548,Vasconcelos et al. (2020),1,0
+Mimosa_hatschbachii_GH9349,Mimosa_hatschbachii,Mimosa hatschbachii Barneby,K,0.47,MT459549,Vasconcelos et al. (2020),0,1
+Mimosa_hebecarpa_JSS829,x,(double entry),(double entry),(double entry),MT459550,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_hebecarpa_JSS957,x,(double entry),(double entry),(double entry),MT459551,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_hebecarpa_JSS973,Mimosa_hebecarpa,Mimosa hebecarpa Benth.,N,1,MT459552,Vasconcelos et al. (2020),0,1
+Mimosa_heringeri_CP2138,Mimosa_heringeri,Mimosa heringeri Barneby,O,1,FJ982082,Simon et al. (2009),1,0
+Mimosa_heringeri_LMB616,x,(double entry),(double entry),(double entry),MT459553,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_hexandra_JSS829,x,(double entry),(double entry),(double entry),MT459554,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_hexandra_KFM128,x,(double entry),(double entry),(double entry),FJ982084,Simon et al. (2009),(double entry),(double entry)
+Mimosa_hexandra_MFS711,Mimosa_hexandra,Mimosa hexandra Micheli,B,0.75,FJ982083,Simon et al. (2009),0,1
+Mimosa_himalayana_SMT24,Mimosa_himalayana,Mimosa himalayana Gamble,D,0.58,FJ982177,Simon et al. (2009),0,1
+Mimosa_hirsutissima_barbigera_MFS765,Mimosa_hirsutissima_barbigera,Mimosa hirsutissima Mart.,R,0.59,FJ982085,Simon et al. (2009),1,1
+Mimosa_hirsutissima_grossa_LPQ12854,Mimosa_hirsutissima_grossa,Mimosa hirsutissima Mart.,R,0.59,FJ982086,Simon et al. (2009),1,1
+Mimosa_sp._APSC1219,Mimosa_sp.,Mimosa sp. ,X,0.5,MT459555,Vasconcelos et al. (2020),0,1
+Mimosa_hondurana_MFS858,Mimosa_hondurana,Mimosa hondurana Britton & Rose,B,0.75,FJ982087,Simon et al. (2009),0,1
+Mimosa_honesta_MFS720,Mimosa_honesta,Mimosa honesta Mart.,Q,0.75,FJ982088,Simon et al. (2009),1,0
+Mimosa_humivagans_MFS737,Mimosa_humivagans,Mimosa humivagans Barneby,O,1,FJ982089,Simon et al. (2009),1,0
+Mimosa_hypoglauca_hypoglauca_MFS723,Mimosa_hypoglauca_hypoglauca,Mimosa hypoglauca Mart.,R,0.59,FJ982090,Simon et al. (2009),1,0
+Mimosa_incana_APSC1068,x,(double entry),(double entry),(double entry),MT459556,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_incana_JRVI674,Mimosa_incana,Mimosa pilulifera Benth.,X,0.5,MT459557,Vasconcelos et al. (2020),0,1
+Mimosa_incana_ND2,x,(double entry),(double entry),(double entry),FJ982091,Simon et al. (2009),(double entry),(double entry)
+Mimosa_incarum_CEH2206,Mimosa_incarum,Mimosa incarum Barneby,W,1,FJ982092,Simon et al. (2009),0,1
+Mimosa_incarum_CEH2656,x,(double entry),(double entry),(double entry),HM353109,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_incarum_RTP1630,x,(double entry),(double entry),(double entry),HM353087,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_incarum_RTP1685,x,(double entry),(double entry),(double entry),HM353108,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_insignis_JSS900,Mimosa_insignis,Mimosa insignis (Hassl.) Barneby,N,1,MT459558,Vasconcelos et al. (2020),0,1
+Mimosa_insignis_JSS901,x,(double entry),(double entry),(double entry),MT459559,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_interrupta_JRIW25673,x,(double entry),(double entry),(double entry),KJ802907,Atahuachi et al. (2016),(double entry),(double entry)
+Mimosa_interrupta_JRIW25829,x,(double entry),(double entry),(double entry),KJ802908,Atahuachi et al. (2016),(double entry),(double entry)
+Mimosa_interrupta_LPQ10485,x,(double entry),(double entry),(double entry),FJ982093,Simon et al. (2009),(double entry),(double entry)
+Mimosa_interrupta_LPQ10584,Mimosa_interrupta,Mimosa interrupta Benth.,N,1,JF694262,Simon et al. (2011),0,1
+Mimosa_invisa_invisa_MFS715,Mimosa_invisa_invisa,Mimosa invisa Mart. ex Colla,F,0.5,FJ982094,Simon et al. (2009),1,1
+Mimosa_involucrata_JRVI694,Mimosa_involucrata,Mimosa involucrata Benth.,X,0.5,MT459560,Vasconcelos et al. (2020),0,1
+Mimosa_irrigua_MFS694,Mimosa_irrigua,Mimosa irrigua Barneby,A,0.73,FJ982095,Simon et al. (2009),1,1
+Mimosa_jacobita_CEH2400,Mimosa_jacobita,Mimosa jacobita Barneby,S,1,FJ982096,Simon et al. (2009),0,1
+Mimosa_jaenensis_TS2177,x,(double entry),(double entry),(double entry),HM353088,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_jaenensis_TS3044,x,(double entry),(double entry),(double entry),HM353090,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_jaenensis_TS3062,Mimosa_jaenensis,"Mimosa jaenensis Sarkinen, Marcelo-Pena & C.E.Hughes",B,0.75,HM353089,Sarkinen et al. (2011),0,1
+Mimosa_jaenensis_TS3070,x,(double entry),(double entry),(double entry),HM353091,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_josephina_CEH2398,Mimosa_josephina,Mimosa josephina Barneby,M,1,FJ982097,Simon et al. (2009),0,1
+Mimosa_kalunga_MFS866,Mimosa_kalunga,Mimosa kalunga Marc.F.Simon & C.E.Hughes,O,1,FJ982224,Simon et al. (2009),1,0
+Mimosa_kuhnisteroides_JMS3876,Mimosa_kuhnisteroides,Mimosa kuhnisteroides Barneby,X,0.5,MT459561,Vasconcelos et al. (2020),0,1
+Mimosa_lacerata_CEH2057,Mimosa_lacerata,Mimosa lacerata Rose,B,0.75,FJ982099,Simon et al. (2009),0,1
+Mimosa_lactiflua_CEH2079,Mimosa_lactiflua,Mimosa lactiflua Benth.,V,0.92,FJ982100,Simon et al. (2009),0,1
+Mimosa_lamolina_CEH2648,Mimosa_lamolina,Mimosa lamolina C.E.Hughes & G.P.Lewis,W,1,FJ982101;,Simon et al. (2009),0,1
+Mimosa_lamolina_HV226,x,(double entry),(double entry),(double entry),HM353092,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_laniceps_MFS773,Mimosa_laniceps,Mimosa laniceps Barneby,O,1,FJ982102,Simon et al. (2009),1,0
+Mimosa_lanuginosa_lanuginosa_MFS732,Mimosa_lanuginosa_lanuginosa,Mimosa lanuginosa Burkart,R,0.59,FJ982103,Simon et al. (2009),1,0
+Mimosa_laticifera_MFS599,Mimosa_laticifera,Mimosa obovata Benth.,D,0.58,FJ982104,Simon et al. (2009),1,1
+Mimosa_latispinosa_JMS206,Mimosa_latispinosa,Mimosa latispinosa Lam.,D,0.58,FJ982105,Simon et al. (2009),0,1
+Mimosa_leiocephala_LMB888,Mimosa_leiocephala,Mimosa leiocephala Benth.,O,1,MT459562,Vasconcelos et al. (2020),1,0
+Mimosa_lepidophora_DC1747,Mimosa_lepidophora,Mimosa lepidophora Rizzini,A,0.73,FJ982106,Simon et al. (2009),0,1
+Mimosa_lepidorepens_APSC1125,Mimosa_lepidorepens,Mimosa lepidorepens Burkart,X,0.5,MT459563,Vasconcelos et al. (2020),0,1
+Mimosa_lepidorepens_OSR3697,x,(double entry),(double entry),(double entry),MT459564,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_lepidota_CEH2469,Mimosa_lepidota,Mimosa lepidota Herzog,K,0.47,FJ982107,Simon et al. (2009),0,1
+Mimosa_lepidota_JRIW14443,x,(double entry),(double entry),(double entry),HM353094,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_lepidota_JRIW19178,x,(double entry),(double entry),(double entry),HM353093,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_lepidota_JRIW20099,x,(double entry),(double entry),(double entry),HM353095,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_lepidota_JRIW22495,x,(double entry),(double entry),(double entry),HM353096,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_leprosa_parviceps_VFD358,Mimosa_leprosa_parviceps,Mimosa leprosa (Benth.) J.F.Macbr.,X,0.5,JF694263,Simon et al. (2011),1,0
+Mimosa_lepthantha_JGN471,Mimosa_lepthantha,Mimosa leptantha Benth.,I,0.77,FJ982108,Simon et al. (2009),0,1
+Mimosa_leptocarpa_LR1014,Mimosa_leptocarpa,Mimosa leptocarpa Rose,B,0.75,FJ982109,Simon et al. (2009),0,1
+Mimosa_leucaenoides_SAMA8,Mimosa_leucaenoides,Mimosa leucaenoides Benth.,B,0.75,FJ982110,Simon et al. (2009),0,1
+Mimosa_levenensis_ML4453,Mimosa_levenensis,Mimosa levenensis Drake,D,0.58,FJ982111,Simon et al. (2009),0,1
+Mimosa_lewisii_JSS989,Mimosa_lewisii,Mimosa lewisii Barneby,N,1,MT459565,Vasconcelos et al. (2020),1,1
+Mimosa_lithoreas_LMB629,Mimosa_lithoreas,Mimosa lithoreas Barneby,O,1,MT459566,Vasconcelos et al. (2020),1,0
+Mimosa_longepedunculata_LMB915,Mimosa_longepedunculata,Mimosa longepedunculata Taub.,O,1,MT459567,Vasconcelos et al. (2020),1,0
+Mimosa_loxensis_GPL2987,x,(double entry),(double entry),(double entry),FJ982113,Simon et al. (2009),(double entry),(double entry)
+Mimosa_loxensis_GPL3082,Mimosa_loxensis,Mimosa loxensis Barneby,W,1,HM353097,Sarkinen et al. (2011),0,1
+Mimosa_loxensis_RJE100,x,(double entry),(double entry),(double entry),HM353107,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_luisana_MFS844,Mimosa_luisana,Mimosa luisana Brandegee,B,0.75,FJ982114,Simon et al. (2009),0,1
+Mimosa_macedoana_APSC1214,x,(double entry),(double entry),(double entry),MT459568,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_macedoana_APSC1215,Mimosa_macedoana,Mimosa macedoana Burkart,X,0.5,MT459569,Vasconcelos et al. (2020),1,0
+Mimosa_maguirei_LMB466,Mimosa_maguirei,Mimosa maguirei Barneby,O,1,MT459570,Vasconcelos et al. (2020),1,0
+Mimosa_malacophylla_DLP900415,x,(double entry),(double entry),(double entry),MT459571,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_malacophylla_SLCR530,Mimosa_malacophylla,Mimosa malacophylla A.Gray,B,0.75,FJ982115,Simon et al. (2009),0,1
+Mimosa_manidea_MFS760,Mimosa_manidea,Mimosa manidea Barneby,O,1,FJ982116,Simon et al. (2009),1,0
+Mimosa_martindelcampoi_SLCR527,Mimosa_martindelcampoi,Mimosa martindelcampoi Medrano,B,0.75,FJ982117,Simon et al. (2009),0,1
+Mimosa_melanocarpa_MFS675,Mimosa_melanocarpa,Mimosa melanocarpa Benth.,O,1,FJ982118,Simon et al. (2009),1,1
+Mimosa_menabeensis_menabeensis_JMS209,Mimosa_menabeensis,Mimosa menabeensis R.Vig.,D,0.58,FJ982119,Simon et al. (2009),0,1
+Mimosa_mensicola_LPQ4289,Mimosa_mensicola,Mimosa mensicola Barneby,D,0.58,MT459572,Vasconcelos et al. (2020),1,0
+Mimosa_micropteris_OSR3721,Mimosa_micropteris,Mimosa micropteris Benth.,X,0.5,MT459573,Vasconcelos et al. (2020),0,1
+Mimosa_minarum_JGN495,Mimosa_minarum,Mimosa minarum Barneby,I,0.77,FJ982120,Simon et al. (2009),1,0
+Mimosa_minutifolia_MFS810,Mimosa_minutifolia,Mimosa minutifolia Robinson & Greenm.,B,0.75,FJ982121,Simon et al. (2009),0,1
+Mimosa_misera_MFS703,Mimosa_misera,Mimosa misera Benth.,I,0.77,JF694264,Simon et al. (2011),0,1
+Mimosa_modesta_modesta_MFS708,Mimosa_modesta,Mimosa modesta Mart.,Q,0.75,FJ982122,Simon et al. (2009),1,1
+Mimosa_mogolensis_APSC1218,Mimosa_mogolensis,Mimosa mogolensis Burkart,X,0.5,MT459574,Vasconcelos et al. (2020),1,0
+Mimosa_mollis_MFS850,Mimosa_mollis,Mimosa mollis Benth.,B,0.75,FJ982123,Simon et al. (2009),0,1
+Mimosa_monancistra_MFS809,Mimosa_monancistra,Mimosa monancistra Benth.,B,0.75,FJ982124,Simon et al. (2009),0,1
+Mimosa_montana_montana_CEH2225,Mimosa_montana_montana,Mimosa montana Kunth,B,0.75,FJ982125,Simon et al. (2009),0,1
+Mimosa_montana_montana_TS2223,x,(double entry),(double entry),(double entry),HM353098,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_montana_sandemanii_RJE125,Mimosa_montana_sandemanii,Mimosa montana Kunth,B,0.75,HM353099,Sarkinen et al. (2011),0,1
+Mimosa_montis_carasae_VFD623,Mimosa_montis,Mimosa montis-carasae Barneby,X,0.5,JF694265,Simon et al. (2011),0,1
+Mimosa_morroensis_JGN244,Mimosa_morroensis,Mimosa morroensis Barneby,I,0.77,JF694266,Simon et al. (2011),1,0
+Mimosa_mossambicensis_RKB8896,Mimosa_mossambicensis,Mimosa mossambicensis Brenan,D,0.58,FJ982126,Simon et al. (2009),0,1
+Mimosa_myriadenia_punctulata_PAR7483,Mimosa_myriadenia,Mimosa myriadenia (Benth.) Benth.,A,0.73,FJ982127,Simon et al. (2009),0,1
+Mimosa_myriocephala_RR329,Mimosa_myriocephala,Mimosa myriocephala Baker,D,0.58,FJ982128,Simon et al. (2009),0,1
+Mimosa_myrioglandulosa_MFS1944,Mimosa_myrioglandulosa,Mimosa myrioglandulosa V.F.Dutra & F.C.P.Garcia,O,1,MT459575,Vasconcelos et al. (2020),1,0
+Mimosa_myriophylla_JRVI681,Mimosa_myriophylla,Mimosa myriophylla Benth.,X,0.5,MT459576,Vasconcelos et al. (2020),1,1
+Mimosa_nanchititlana_RG2938,Mimosa_nanchititlana,Mimosa nanchititlana R.Grether & Barneby,B,0.75,FJ982129,Simon et al. (2009),0,1
+Mimosa_neptunioides_JRIW22123,Mimosa_neptunioides,Mimosa neptunioides Harms,M,1,FJ982130,Simon et al. (2009),0,1
+Mimosa_niederleinii_APSC1100,Mimosa_niederleinii,Mimosa niederleinii Burkart,X,0.5,MT459577,Vasconcelos et al. (2020),0,1
+Mimosa_nitens_RQ1474,Mimosa_nitens,Mimosa nitens Benth.,O,1,MT459578,Vasconcelos et al. (2020),1,0
+Mimosa_nossibiensis_nossibiensis_DJP350,Mimosa_nossibiensis,Mimosa nossibiensis Benth.,D,0.58,FJ982131,Simon et al. (2009),0,1
+Mimosa_nothacacia_GPL2353,Mimosa_nothacacia,Mimosa nothacacia Barneby,A,0.73,FJ982132,Simon et al. (2009),0,1
+Mimosa_nothacacia_GPL3039,x,(double entry),(double entry),(double entry),HM353101,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_nothacacia_GPL3291,x,(double entry),(double entry),(double entry),HM353100,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_nothopteris_JPS5204,Mimosa_nothopteris,Mimosa nothopteris Barneby,N,1,MT459579,Vasconcelos et al. (2020),1,0
+Mimosa_nuda_nuda_CEH2396,Mimosa_nuda,Mimosa nuda Benth.,T,0.78,FJ982133,Simon et al. (2009),1,1
+Mimosa_nuttallii_MFS875,Mimosa_nuttallii,Mimosa nuttallii (DC.) B.L.Turner,G,0.35,FJ982134,Simon et al. (2009),0,1
+Mimosa_oblonga_oblonga_EB463,x,(double entry),(double entry),(double entry),FJ982135,Simon et al. (2009),(double entry),(double entry)
+Mimosa_oblonga_OSR1134,Mimosa_oblonga,Mimosa oblonga Benth.,X,0.5,MT459580,Vasconcelos et al. (2020),0,1
+Mimosa_occidentalis_occidentalis_MFS821,Mimosa_occidentalis,Mimosa occidentalis Britton & Rose,M,1,FJ982136,Simon et al. (2009),0,1
+Mimosa_oedoclada_LMB560,Mimosa_oedoclada,Mimosa oedoclada Barneby,O,1,MT459581,Vasconcelos et al. (2020),1,0
+Mimosa_oligosperma_LMB942,x,(double entry),(double entry),(double entry),MT459582,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_oligosperma_MFS865,Mimosa_oligosperma,Mimosa oligosperma Barneby,O,1,FJ982137,Simon et al. (2009),1,0
+Mimosa_onilahensis_DJP899,Mimosa_onilahensis,Mimosa onilahensis R.Vig.,D,0.58,FJ982138,Simon et al. (2009),0,1
+Mimosa_ophthalmocentra_JSS1201,Mimosa_ophthalmocentra,Mimosa ophthalmocentra Benth.,D,0.58,MT459583,Vasconcelos et al. (2020),1,1
+Mimosa_ophthalmocentra_JSS838,x,(double entry),(double entry),(double entry),MT459584,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_ophthalmocentra_JSS938,x,(double entry),(double entry),(double entry),MT459585,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_ophthalmocentra_MJW2434,x,(double entry),(double entry),(double entry),FJ982139,Simon et al. (2009),(double entry),(double entry)
+Mimosa_orbignyana_LMB787,Mimosa_orbignyana,Mimosa orbignyana Barneby,Y,0.83,MT459586,Vasconcelos et al. (2020),0,1
+Mimosa_orthacantha_JCB_SN,Mimosa_orthacantha,Mimosa orthacantha Benth.,X,0.5,FJ982140,Simon et al. (2009),0,1
+Mimosa_orthocarpa_MFS855,Mimosa_orthocarpa,Mimosa orthocarpa Benth.,M,1,FJ982141,Simon et al. (2009),0,1
+Mimosa_pachycarpoides_LMB839,Mimosa_pachycarpoides,Mimosa pachycarpoides Malme,O,1,MT459587,Vasconcelos et al. (2020),0,1
+Mimosa_palmeri_MFS823,Mimosa_palmeri,Mimosa palmeri Rose,B,0.75,FJ982142,Simon et al. (2009),0,1
+Mimosa_papposa_papposa_MFS601,Mimosa_papposa,Mimosa papposa Benth.,R,0.59,FJ982143,Simon et al. (2009),1,0
+Mimosa_parviceps_VFD437,Mimosa_parviceps,Mimosa parviceps Barneby,X,0.5,JF694267,Simon et al. (2011),1,0
+Mimosa_parvipinna_JRVI756,Mimosa_parvipinna,Mimosa parvipinna Benth.,X,0.5,MT459588,Vasconcelos et al. (2020),0,1
+Mimosa_paucifolia_VFD450,Mimosa_paucifolia,Mimosa paucifolia Benth.,H,0.41,JF694268,Simon et al. (2011),1,1
+Mimosa_pectinatipinna_CEH2036,Mimosa_pectinatipinna,Mimosa pectinatipinna Burkart,W,1,FJ982144,Simon et al. (2009),0,1
+Mimosa_pectinatipinna_RTP783,x,(double entry),(double entry),(double entry),HM353104,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_pectinatipinna_RTP806,x,(double entry),(double entry),(double entry),HM353106,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_pectinatipinna_TDP17650,x,(double entry),(double entry),(double entry),HM353105,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_pectinatipinna_TS2188,x,(double entry),(double entry),(double entry),HM353105,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_pectinatipinna_TS3101,x,(double entry),(double entry),(double entry),HM353102,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_pedersenii_LPQ12645,Mimosa_pedersenii,Mimosa pedersenii Barneby,X,0.5,FJ982145,Simon et al. (2009),0,1
+Mimosa_perdusenii_OSR4545,Mimosa_per_dusenii,Mimosa per-dusenii Burkart,X,0.5,FJ982146,Simon et al. (2009),0,1
+Mimosa_pigra_berlandieri_SLCR531,Mimosa_pigra_berlandieri,Mimosa pigra L.,J,0.6,FJ982147,Simon et al. (2009),0,1
+Mimosa_pigra_dehiscens_CEH2414,Mimosa_pigra_dehiscens,Mimosa pigra L.,J,0.6,FJ982148,Simon et al. (2009),1,1
+Mimosa_pilulifera_JRVI676,Mimosa_pilulifera,Mimosa pilulifera Benth.,X,0.5,MT459589,Vasconcelos et al. (2020),0,1
+Mimosa_pilulifera_ND3,x,(double entry),(double entry),(double entry),FJ982149,Simon et al. (2009),(double entry),(double entry)
+Mimosa_pilulifera_pseudincana_MFS878,x,(double entry),(double entry),(double entry),FJ982150,Simon et al. (2009),(double entry),(double entry)
+Mimosa_piresii_Ribeiro_1200,Mimosa_piresii,Mimosa piresii Barneby,Y,0.83,MT459590,Vasconcelos et al. (2020),0,1
+Mimosa_pithecolobioides_APCS1217,Mimosa_pithecolobioides,Mimosa pithecolobioides Benth.,A,0.73,MT459591,Vasconcelos et al. (2020),1,0
+Mimosa_pithecolobioides_VFD317,x,(double entry),(double entry),(double entry),FJ982151,Simon et al. (2009),(double entry),(double entry)
+Mimosa_platycarpa_platycarpa_MFS859,Mimosa_platycarpa,Mimosa platycarpa Benth.,B,0.75,FJ982152,Simon et al. (2009),0,1
+Mimosa_poculata_LPQ10160,Mimosa_poculata,Mimosa poculata Barneby,L,0.62,JF694269,Simon et al. (2011),1,1
+Mimosa_polyantha_MFS829,Mimosa_polyantha,Mimosa polyantha Benth.,B,0.75,FJ982153,Simon et al. (2009),0,1
+Mimosa_polycarpa_redundans_CEH2642,Mimosa_polycarpa_redundans,Mimosa polycarpa Kunth,W,1,HM353125,Sarkinen et al. (2011),0,1
+Mimosa_polycarpa_redundans_DA4573,x,(double entry),(double entry),(double entry),HM353084,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_polycarpa_redundans_TS3089,x,(double entry),(double entry),(double entry),HM353124,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_polycarpa_RJE100,Mimosa_polycarpa,Mimosa polycarpa Kunth,W,1,HM353107,Sarkinen et al. (2011),0,1
+Mimosa_polycarpa_subandina_CEH2432,Mimosa_polycarpa_subandina,Mimosa polycarpa Kunth,W,1,HM353111,Sarkinen et al. (2011),0,1
+Mimosa_polycarpa_subandina_CEH2462,x,(double entry),(double entry),(double entry),FJ982154,Simon et al. (2009),(double entry),(double entry)
+Mimosa_polycarpa_subandina_TS2061,x,(double entry),(double entry),(double entry),HM353110,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_polycephala_polycephala_MFS400,Mimosa_polycephala,Mimosa polycephala Benth.,R,0.59,FJ982155,Simon et al. (2009),0,1
+Mimosa_polydactyla_LC8652,Mimosa_polydactyla,Mimosa polydactyla Willd.,P,1,FJ982156,Simon et al. (2009),0,1
+Mimosa_polydidyma_MFS719,Mimosa_polydidyma,Mimosa polydidyma Barneby,H,0.41,FJ982157,Simon et al. (2009),1,0
+Mimosa_prainiana_LJGM3843,Mimosa_prainiana,Mimosa prainiana Gamble,D,0.58,FJ982158,Simon et al. (2009),0,1
+Mimosa_procurrens_MFS1804,Mimosa_procurrens,Mimosa procurrens Benth.,Z,1,MT459592,Vasconcelos et al. (2020),1,0
+Mimosa_prorepens_LMB496,Mimosa_prorepens,Mimosa prorepens Barneby,O,1,MT459593,Vasconcelos et al. (2020),1,0
+Mimosa_prorepens_LMB504,x,(double entry),(double entry),(double entry),MT459594,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_pseudocallosa_OSR5845,Mimosa_pseudocallosa,Mimosa pseudocallosa Burkart,X,0.5,FJ982159,Simon et al. (2009),0,1
+Mimosa_pseudoradula_pseudoradula_MFS664,Mimosa_pseudoradula,Mimosa pseudoradula Glaz. ex Barneby,R,0.59,FJ982160,Simon et al. (2009),1,0
+Mimosa_pseudosepiaria_MFS712,Mimosa_pseudosepiaria,Mimosa pseudosepiaria Harms,D,0.58,FJ982161,Simon et al. (2009),0,1
+Mimosa_psilocarpa_AMB933,Mimosa_psilocarpa,Mimosa psilocarpa Robinson,V,0.92,FJ982163,Simon et al. (2009),0,1
+Mimosa_psoralea_PBP3571,Mimosa_psoralea,Mimosa psoralea (DC.) Benth.,D,0.58,FJ982164,Simon et al. (2009),0,1
+Mimosa_pteridifolia_JSS1102,x,(double entry),(double entry),(double entry),MT459595,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_pteridifolia_JSS1178,x,(double entry),(double entry),(double entry),MT459596,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_pteridifolia_MFS754,Mimosa_pteridifolia,Mimosa pteridifolia Benth.,N,1,FJ982165,Simon et al. (2009),1,1
+Mimosa_pudica_MFS669,Mimosa_pudica,Mimosa pudica L.,P,1,FJ982166,Simon et al. (2009),0,1
+Mimosa_purpusii_MFS841,Mimosa_purpusii,Mimosa purpusii Brandegee,B,0.75,FJ982167,Simon et al. (2009),0,1
+Mimosa_pyrenea_MFS678,Mimosa_pyrenea,Mimosa pyrenea Taub.,R,0.59,FJ982168,Simon et al. (2009),1,0
+Mimosa_quadrivalvis_quadrivalvis_SLCR532,Mimosa_quadrivalvis,Mimosa quadrivalvis L.,G,0.35,FJ982169,Simon et al. (2009),0,1
+Mimosa_quitensis_BAL62442,Mimosa_quitensis,Mimosa quitensis Benth.,B,0.75,HM353113,Sarkinen et al. (2011),0,1
+Mimosa_quitensis_BBK647,x,(double entry),(double entry),(double entry),HM353112,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_quitensis_COR5760,x,(double entry),(double entry),(double entry),HM353114,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_quitensis_GPL2856,x,(double entry),(double entry),(double entry),HM353116,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_quitensis_VAR270,x,(double entry),(double entry),(double entry),HM353115,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_radula_imbricata_MFS731,Mimosa_radula,Mimosa radula Benth.,R,0.59,FJ982170,Simon et al. (2009),1,0
+Mimosa_ramboi_LPQ12530,Mimosa_ramboi,Mimosa ramboi Burkart,X,0.5,FJ982171,Simon et al. (2009),0,1
+Mimosa_ramosissima_JRVI696,Mimosa_ramosissima,Mimosa ramosissima Benth.,X,0.5,MT459597,Vasconcelos et al. (2020),0,1
+Mimosa_ramulosa_LPQ12340,Mimosa_ramulosa,Mimosa ramulosa Benth.,X,0.5,FJ982172,Simon et al. (2009),0,1
+Mimosa_rastrera_JRIW26736,Mimosa_rastrera,Mimosa rastrera Atahuachi & C.E.Hughes,M,1,KJ802911,Atahuachi et al. (2016),0,1
+Mimosa_rastrera_MRZ1971,x,(double entry),(double entry),(double entry),MT459598,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_regina_MFS759,Mimosa_regina,Mimosa regina Barneby,O,1,FJ982173,Simon et al. (2009),1,0
+Mimosa_revoluta_CEH2260,Mimosa_revoluta,Mimosa revoluta Benth.,A,0.73,HM353117,Sarkinen et al. (2011),0,1
+Mimosa_revoluta_CEH2278,x,(double entry),(double entry),(double entry),FJ982174,Simon et al. (2009),(double entry),(double entry)
+Mimosa_revoluta_CEH2429,x,(double entry),(double entry),(double entry),HM353118,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_revoluta_JRIW11291,x,(double entry),(double entry),(double entry),HM353119,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_revoluta_JRIW18682,x,(double entry),(double entry),(double entry),HM353120,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_revoluta_RJE103,x,(double entry),(double entry),(double entry),HM353122,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_revoluta_RJE64,x,(double entry),(double entry),(double entry),HM353121,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_rheiptera_LMB914,Mimosa_rheiptera,Mimosa rheiptera Barneby,O,1,MT459599,Vasconcelos et al. (2020),1,0
+Mimosa_rhodocarpa_CEH2161,Mimosa_rhodocarpa,Mimosa rhodocarpa (Britton & Rose) R.Grether,B,0.75,FJ982175,Simon et al. (2009),0,1
+Mimosa_rhodostegia_MLF590,Mimosa_rhodostegia,Mimosa rhodostegia Barneby,O,1,MT459600,Vasconcelos et al. (2020),1,0
+Mimosa_riedelii_LMB837,Mimosa_riedelii,Mimosa riedelii Benth.,Y,0.83,MT459601,Vasconcelos et al. (2020),0,1
+Mimosa_robusta_MFS818,Mimosa_robusta,Mimosa robusta R.Grether,G,0.35,FJ982176,Simon et al. (2009),0,1
+Mimosa_rufescens_rufescens_GCF596,Mimosa_rufescens,Mimosa rufescens Benth.,A,0.73,FJ982178,Simon et al. (2009),0,1
+Mimosa_rufipila_MFS1811,Mimosa_rufipila,Mimosa rufipila Benth.,Z,1,MT459602,Vasconcelos et al. (2020),1,1
+Mimosa_rupertiana_RB12884,Mimosa_rupertiana,Mimosa rupertiana B.L.Turner,G,0.35,FJ982179,Simon et al. (2009),0,1
+Mimosa_rusbyana_JRIW20607,Mimosa_rusbyana,Mimosa rusbyana Barneby & Fortunato,W,1,HM353123,Sarkinen et al. (2011),0,1
+Mimosa_rusbyana_TS2071,x,(double entry),(double entry),(double entry),FJ982180,Simon et al. (2009),(double entry),(double entry)
+Mimosa_sanguinolenta_JRVI757,Mimosa_sanguinolenta,Mimosa sanguinolenta Barneby,K,0.47,MT459603,Vasconcelos et al. (2020),0,1
+Mimosa_scabrella_APSC1066,x,(double entry),(double entry),(double entry),MT459604,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_scabrella_HCL4055,Mimosa_scabrella,Mimosa scabrella Benth.,X,0.5,FJ982181,Simon et al. (2009),0,1
+Mimosa_schleidenii_LPQ12348,Mimosa_schleidenii,Mimosa schleidenii Herter,X,0.5,FJ982182,Simon et al. (2009),0,1
+Mimosa_schomburgkii_JJH15,x,(double entry),(double entry),(double entry),FJ982183,Simon et al. (2009),(double entry),(double entry)
+Mimosa_schomburgkii_MFS1662,Mimosa_schomburgkii,Mimosa schomburgkii Benth.,N,1,MT459605,Vasconcelos et al. (2020),0,1
+Mimosa_sensitiva_sensitiva_DA4,Mimosa_sensitiva,Mimosa sensitiva L.,T,0.78,FJ982184,Simon et al. (2009),1,1
+Mimosa_sericantha_JSS1127,x,(double entry),(double entry),(double entry),MT459606,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_sericantha_JSS1143,x,(double entry),(double entry),(double entry),MT459607,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_sericantha_JSS1171,x,(double entry),(double entry),(double entry),MT459608,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_sericantha_MFS410,Mimosa_sericantha,Mimosa sericantha Benth.,N,1,FJ982185,Simon et al. (2009),0,1
+Mimosa_setosa_granitica_LMB553,Mimosa_setosa_granitica,Mimosa setosa Benth.,O,1,MT459609,Vasconcelos et al. (2020),1,0
+Mimosa_setosa_nitens_LMB1027,Mimosa_setosa_nitens,Mimosa setosa Benth.,O,1,MT459610,Vasconcelos et al. (2020),1,0
+Mimosa_setosa_paludosa_LMB434,x,(double entry),(double entry),(double entry),MT459611,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_setosa_paludosa_MFS725,Mimosa_setosa_paludosa,Mimosa setosa Benth.,O,1,FJ982186,Simon et al. (2009),1,1
+Mimosa_setosa_setosa_LMB1008,Mimosa_setosa_setosa,Mimosa setosa Benth.,O,1,MT459612,Vasconcelos et al. (2020),1,1
+Mimosa_setosa_urbana_LMB1025,Mimosa_setosa_urbana,Mimosa setosa Benth.,O,1,MT459613,Vasconcelos et al. (2020),1,0
+Mimosa_setosa_urbica_MFS730,Mimosa_setosa_urbica,Mimosa setosa Benth.,O,1,FJ982187,Simon et al. (2009),1,0
+Mimosa_setosissima_LMB960,x,(double entry),(double entry),(double entry),MT459614,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_setosissima_MFS676,Mimosa_setosissima,Mimosa setosissima Taub.,O,1,FJ982188,Simon et al. (2009),1,0
+Mimosa_setuligera_MFS709,Mimosa_setuligera,Mimosa setuligera Harms,I,0.77,FJ982189,Simon et al. (2009),1,1
+Mimosa_sicyocarpa_JC4936,Mimosa_sicyocarpa,Mimosa sicyocarpa Robinson,V,0.92,FJ982190,Simon et al. (2009),0,1
+Mimosa_similis_MFS807,Mimosa_similis,Mimosa similis Britton & Rose,B,0.75,FJ982191,Simon et al. (2009),0,1
+Mimosa_sinaloensis_MFS828,Mimosa_sinaloensis,Mimosa sinaloensis Britton & Rose,G,0.35,FJ982192,Simon et al. (2009),0,1
+Mimosa_skinneri_desmodioides_MFS746,Mimosa_skinneri_desmodioides,Mimosa skinneri Benth.,R,0.59,FJ982193,Simon et al. (2009),1,1
+Mimosa_somnambulans_MFS2450,Mimosa_somnambulans,Mimosa somnambulans Barneby,L,0.62,MT459460,Morales et al. (2020),1,0
+Mimosa_somnians_lasiocarpa_MFS736,Mimosa_somnians_lasiocarpa,Mimosa somnians Willd.,L,0.62,FJ982194,Simon et al. (2009),1,1
+Mimosa_somnians_lupulina_MFS2436,Mimosa_somnians_lupulina,Mimosa somnians Willd.,L,0.62,MT459461,Morales et al. (2020),0,1
+Mimosa_somnians_velascoensis_JEQR3430,Mimosa_somnians_velascoensis,Mimosa somnians Willd.,L,0.62,MT459462,Morales et al. (2020),1,1
+Mimosa_somnians_viscida_JRIW27420,Mimosa_somnians_viscida,Mimosa somnians Willd.,L,0.62,KJ802912,Atahuachi et al. (2016),1,1
+Mimosa_sousae_AMB918,Mimosa_sousae,Mimosa sousae R.Grether,V,0.92,FJ982195,Simon et al. (2009),0,1
+Mimosa_sp._APSC895,Mimosa_sp1,Mimosa sp1 ,O,1,MT459615,Vasconcelos et al. (2020),1,0
+Mimosa_sp._JEQF3486,Mimosa_sp2,Mimosa sp2 ,S,1,MT459616,Vasconcelos et al. (2020),0,1
+Mimosa_sp._JRVI684,Mimosa_sp3,Mimosa sp3 ,K,0.47,MT459617,Vasconcelos et al. (2020),0,1
+Mimosa_sp._LMB783,Mimosa_sp4,Mimosa sp4 ,Y,0.83,MT459618,Vasconcelos et al. (2020),0,1
+Mimosa_sp._MBM15,Mimosa_sp5,Mimosa sp5 ,X,0.5,MT459619,Vasconcelos et al. (2020),0,1
+Mimosa_sp._ND15,Mimosa_sp6,Mimosa sp6 ,X,0.5,FJ981990,Simon et al. (2009),0,1
+Mimosa_sp._nov._aff._bipennatula_MFS2230,Mimosa_sp7,Mimosa sp7 ,S,1,MT459620,Vasconcelos et al. (2020),0,1
+Mimosa_sp._nov._MFS1114,Mimosa_sp8,Mimosa sp8 ,R,0.59,MT459621,Vasconcelos et al. (2020),1,0
+Mimosa_sp._nov._MFS2190,Mimosa_sp9,Mimosa sp9 ,R,0.59,MT459622,Vasconcelos et al. (2020),0,1
+Mimosa_speciosissima_LMB575,x,(double entry),(double entry),(double entry),MT459623,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_speciosissima_MFS753,Mimosa_speciosissima,Mimosa speciosissima Taub.,O,1,FJ982197,Simon et al. (2009),1,0
+Mimosa_spirocarpa_MFS825,Mimosa_spirocarpa,Mimosa spirocarpa Rose,B,0.75,FJ982198,Simon et al. (2009),0,1
+Mimosa_spixiana_JSS1141,Mimosa_spixiana,Mimosa spixiana Barneby,N,1,MT459624,Vasconcelos et al. (2020),0,1
+Mimosa_spixiana_JSS1145,x,(double entry),(double entry),(double entry),MT459625,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_splendida_MFS739,Mimosa_splendida,Mimosa splendida Barneby,O,1,FJ982199,Simon et al. (2009),1,0
+Mimosa_sprengellii_LPQ12469,Mimosa_sprengellii,Mimosa sprengelii DC.,X,0.5,FJ982200,Simon et al. (2009),0,1
+Mimosa_strigillosa_AWL2666,x,(double entry),(double entry),(double entry),FJ982201,Simon et al. (2009),(double entry),(double entry)
+Mimosa_strigillosa_DLP900513,Mimosa_strigillosa,Mimosa strigillosa Torr. & A.Gray,J,0.6,MT459626,Vasconcelos et al. (2020),0,1
+Mimosa_strobiliflora_OSR3600,Mimosa_strobiliflora,Mimosa strobiliflora Burkart,K,0.47,FJ982202,Simon et al. (2009),0,1
+Mimosa_stylosa_LMB694,x,(double entry),(double entry),(double entry),MT459627,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_stylosa_VFD318,Mimosa_stylosa,Mimosa stylosa Barneby,O,1,FJ982203,Simon et al. (2009),1,0
+Mimosa_suberosa_LMB782,Mimosa_suberosa,Mimosa suberosa M.Atahuachi & C.E.Hughes,Y,0.83,MT459628,Vasconcelos et al. (2020),0,1
+Mimosa_taimbensis_APCS1221,Mimosa_taimbensis,Mimosa taimbensis Burkart,X,0.5,MT459629,Vasconcelos et al. (2020),0,1
+Mimosa_tejupilcana_SAMA16,Mimosa_tejupilcana,Mimosa tejupilcana R.Grether & Martínez-Bernal,B,0.75,FJ982204,Simon et al. (2009),0,1
+Mimosa_tenuiflora_JSS837,x,(double entry),(double entry),(double entry),MT459630,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_tenuiflora_MFS698,Mimosa_tenuiflora,Mimosa tenuiflora (Willd.) Poir.,N,1,FJ982205,Simon et al. (2009),1,1
+Mimosa_tequilana_MFS813,Mimosa_tequilana,Mimosa tequilana S.Watson,T,0.78,FJ982206,Simon et al. (2009),0,1
+Mimosa_texana_filipes_MFS845,Mimosa_texana_filipes,Mimosa borealis A.Gray,B,0.75,FJ982207,Simon et al. (2009),0,1
+Mimosa_texana_texana_MFS803,Mimosa_texana_texana,Mimosa borealis A.Gray,B,0.75,FJ982208,Simon et al. (2009),0,1
+Mimosa_tocantina_MFS864,Mimosa_tocantina,Mimosa tocantina Taub.,O,1,FJ982162,Simon et al. (2009),1,0
+Mimosa_torresiae_RTC10040,Mimosa_torresiae,Mimosa torresiae R. Grether,B,0.75,FJ982209,Simon et al. (2009),0,1
+Mimosa_townsendii_BBK229,x,(double entry),(double entry),(double entry),HM353126,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_townsendii_GPL2914,Mimosa_townsendii,Mimosa townsendii Barneby,A,0.73,HM353127,Sarkinen et al. (2011),0,1
+Mimosa_townsendii_GPL3025,x,(double entry),(double entry),(double entry),FJ982210,Simon et al. (2009),(double entry),(double entry)
+Mimosa_townsendii_LOZ1031,x,(double entry),(double entry),(double entry),HM353128,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_townsendii_LOZ943,x,(double entry),(double entry),(double entry),HM353129,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_trianae_DOA_SN,Mimosa_trianae,Mimosa trianae Benth.,N,1,MT459631,Vasconcelos et al. (2020),0,1
+Mimosa_tricephala_nelsonii_AMB920,Mimosa_tricephala_nelsonii,Mimosa tricephala Cham. & Schltdl.,V,0.92,FJ982211,Simon et al. (2009),0,1
+Mimosa_ulbrichiana_MFS710,Mimosa_ulbrichiana,Mimosa ulbrichiana Harms,I,0.77,FJ982212,Simon et al. (2009),1,1
+Mimosa_ulei_grallator_MFS777,Mimosa_ulei_grallator,Mimosa ulei Taub.,O,1,FJ982213,Simon et al. (2009),1,0
+Mimosa_ulei_ulei_LMB498,Mimosa_ulei_ulei,Mimosa ulei Taub.,O,1,MT459632,Vasconcelos et al. (2020),1,0
+Mimosa_ulei_ulei_LMB541,x,(double entry),(double entry),(double entry),MT459633,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_ulei_ulei_LMB564,x,(double entry),(double entry),(double entry),MT459634,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_uliginosa_LPQ12608,Mimosa_uliginosa,Mimosa uliginosa Chodat & Hassl.,K,0.47,FJ982214,Simon et al. (2009),0,1
+Mimosa_unipinnata_MAC2355,Mimosa_unipinnata,Mimosa unipinnata B.D.Parfitt & Pinkava,B,0.75,FJ982215,Simon et al. (2009),0,1
+Mimosa_uraguensis_MFS862,Mimosa_uraguensis,Mimosa uruguensis Hook. & Arn.,K,0.47,FJ982216,Simon et al. (2009),0,1
+Mimosa_ursina_MFS704,Mimosa_ursina,Mimosa ursina Mart.,Q,0.75,FJ982217,Simon et al. (2009),1,1
+Mimosa_urticaria_APSC1077,Mimosa_urticaria,Mimosa urticaria Barneby,X,0.5,MT459635,Vasconcelos et al. (2020),0,1
+Mimosa_velloziana_velloziana_MFS721,Mimosa_velloziana_velloziana,Mimosa velloziana Mart.,T,0.78,FJ982218,Simon et al. (2009),1,1
+Mimosa_vennatorum_MFS740,Mimosa_vennatorum,Mimosa venatorum Barneby,R,0.59,FJ982219,Simon et al. (2009),1,0
+Mimosa_verecunda_MFS749,Mimosa_verecunda,Mimosa verecunda Benth.,S,1,FJ982220,Simon et al. (2009),1,0
+Mimosa_vernicosa_ciliata_MFS2439,Mimosa_vernicosa_ciliata,Mimosa vernicosa Benth.,O,1,MT459636,Vasconcelos et al. (2020),0,1
+Mimosa_verrucosa_JSS827,x,(double entry),(double entry),(double entry),MT459637,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_verrucosa_MFS706,Mimosa_verrucosa,Mimosa verrucosa Benth.,N,1,FJ982221,Simon et al. (2009),1,1
+Mimosa_vestita_MFS769,Mimosa_vestita,Mimosa vestita Benth.,R,0.59,FJ982222,Simon et al. (2009),1,0
+Mimosa_vilersii_JNL3020,Mimosa_vilersii,Mimosa vilersii Drake,D,0.58,FJ982223,Simon et al. (2009),0,1
+Mimosa_viperina_LMB940,x,(double entry),(double entry),(double entry),MT459638,Vasconcelos et al. (2020),(double entry),(double entry)
+Mimosa_viperina_MFS461,Mimosa_viperina,Mimosa viperina Marc.F.Simon & C.E.Hughes,O,1,FJ982048,Simon et al. (2009),1,0
+Mimosa_virgula_MAS5134,Mimosa_virgula,Mimosa virgula Barneby,R,0.59,FJ982225,Simon et al. (2009),1,0
+Mimosa_volubilis_DJP739,Mimosa_volubilis,Mimosa volubilis Villiers,D,0.58,FJ982226,Simon et al. (2009),0,1
+Mimosa_waterlotii_BDS2551,Mimosa_waterlotii,Mimosa waterlotii R.Vig.,D,0.58,FJ982227,Simon et al. (2009),0,1
+Mimosa_watsonii_MFS857,Mimosa_watsonii,Mimosa watsonii Robinson,A,0.73,FJ982228,Simon et al. (2009),0,1
+Mimosa_weberbaueri_CEH2043,Mimosa_weberbaueri,Mimosa weberbaueri Harms,B,0.75,FJ982229,Simon et al. (2009),0,1
+Mimosa_weberbaueri_RJE53,x,(double entry),(double entry),(double entry),HM353130,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_weberbaueri_RJE96,x,(double entry),(double entry),(double entry),HM353131,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_weddelliana_NR4657,Mimosa_weddelliana,Mimosa weddelliana Benth.,J,0.6,FJ982230,Simon et al. (2009),1,1
+Mimosa_woodii_CEH2285,Mimosa_woodii,Mimosa woodii Atahuachi & C.E.Hughes,W,1,FJ982231,Simon et al. (2009),0,1
+Mimosa_woodii_JRIW20945,x,(double entry),(double entry),(double entry),HM353132,Sarkinen et al. (2011),(double entry),(double entry)
+Mimosa_xanthocentra_subsericea_CEH2403,Mimosa_xanthocentra_subsericea,Mimosa xanthocentra Mart.,S,1,FJ982232,Simon et al. (2009),1,1
+Mimosa_xanthocentra_tremula_MRZ1695,Mimosa_xanthocentra_tremula,Mimosa xanthocentra Mart.,S,1,MT459639,Vasconcelos et al. (2020),1,1
+Mimosa_xanti_DLP890038,Mimosa_xanti,Mimosa xanti A.Gray,V,0.92,MT459640,Vasconcelos et al. (2020),0,1
+Mimosa_xavantinae_RF346,Mimosa_xavantinae,Mimosa xavantinae Barneby,N,1,FJ982233,Simon et al. (2009),0,1
+Mimosa_xiquexiquensis_RMH54331,Mimosa_xiquexiquensis,Mimosa xiquexiquensis Barneby,I,0.77,JF694271,Simon et al. (2011),0,1
+Mimosa_zygophylla_SLCR525,Mimosa_zygophylla,Mimosa zygophylla A.Gray,B,0.75,FJ982234,Simon et al. (2009),0,1
+Parapiptadenia_excelsa_CEH2425,Parapiptadenia_excelsa,Parapiptadenia excelsa (Griseb.) Burkart,(outgroup),(outgroup),FJ982235,Simon et al. (2009),(outgroup),(outgroup)
+Piptadenia_adiantoides_MFS726,Piptadenia_adiantoides,Piptadenia adiantoides (Spreng.) J.F.Macbr.,(outgroup),(outgroup),FJ982236,Simon et al. (2009),(outgroup),(outgroup)
+Piptadenia_buchtienii_CEH2427,Piptadenia_buchtienii,Piptadenia buchtienii Barneby,(outgroup),(outgroup),FJ982237,Simon et al. (2009),(outgroup),(outgroup)
+Piptadenia_gonoacantha_MFS735,Piptadenia_gonoacantha,Piptadenia gonoacantha (Mart.) J.F.Macbr.,(outgroup),(outgroup),FJ982238,Simon et al. (2009),(outgroup),(outgroup)
+Piptadenia_moniliformis_MJW2449,Pityrocarpa_moniliformis,Pityrocarpa moniliformis (Benth.) Luckow & R.W.Jobson,(outgroup),(outgroup),FJ982239,Simon et al. (2009),(outgroup),(outgroup)
+Piptadenia_obliqua_DJM439,Pityrocarpa_obliqua,Pityrocarpa obliqua (Pers.) Brenan,(outgroup),(outgroup),FJ982240,Simon et al. (2009),(outgroup),(outgroup)
+Piptadenia_stipulacea_MFS702,Piptadenia_stipulacea,Piptadenia stipulacea (Benth.) Ducke,(outgroup),(outgroup),FJ982241,Simon et al. (2009),(outgroup),(outgroup)
+Piptadenia_trisperma_KEA512,Piptadenia_trisperma,Piptadenia trisperma (Vell.) Benth.,(outgroup),(outgroup),FJ982242,Simon et al. (2009),(outgroup),(outgroup)
+Piptadenia_viridiflora_CEH1681,x,(double entry),(double entry),(double entry),FJ982243,Simon et al. (2009),(double entry),(double entry)
+Stryphnodendron_adstringens_MFS734,Stryphnodendron_adstringens,Stryphnodendron adstringens (Mart.) Coville,(outgroup),(outgroup),FJ982244,Simon et al. (2009),(outgroup),(outgroup)
+Stryphnodendron_obovatum_CEH2397,Stryphnodendron_obovatum,Stryphnodendron obovatum Benth.,(outgroup),(outgroup),FJ982245,Simon et al. (2009),(outgroup),(outgroup)

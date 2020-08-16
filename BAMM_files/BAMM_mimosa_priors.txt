@@ -1,0 +1,16 @@
+###############################################
+
+# Prior block chosen by BAMMtools::setBAMMpriors
+
+expectedNumberOfShifts = 1.0
+
+lambdaInitPrior = 0.933743312240976
+
+lambdaShiftPrior = 0.0446615901626799
+
+muInitPrior = 0.933743312240976
+
+#### End Prior block
+######################
+
+

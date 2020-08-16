@@ -1,0 +1,196 @@
+cleaned_name,accepted_name,clade,sampling_fraction,,,,Reference,,campo_rupestre,non_campo_rupestre
+Actinocephalus_bongardii,Actinocephalus bongardii (A.St.-Hil.) Sano,Actinocephalus,0.25,,(genbank accession number to be included),,Andrino et al. submitted,,1,1
+Actinocephalus_brachypus,Actinocephalus brachypus (Bong.) Sano,Actinocephalus,0.25,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Actinocephalus_ciliatus,Actinocephalus ciliatus (Bong.) Sano,Actinocephalus,0.25,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Actinocephalus_deflexus,Actinocephalus deflexus F.N.Costa,Actinocephalus,0.25,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Actinocephalus_divaricatus,Actinocephalus divaricatus (Bong.) Sano,Actinocephalus,0.25,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Actinocephalus_falcifolius,Actinocephalus falcifolius (K’_rn.) Sano,Actinocephalus,0.25,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Actinocephalus_geniculatus,Actinocephalus geniculatus ,Actinocephalus,0.25,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Actinocephalus_glareosus,Actinocephalus glareosus ,Actinocephalus,0.25,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Actinocephalus_polyanthus,Actinocephalus polyanthus (Bong.) Sano,Actinocephalus,0.25,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Actinocephalus_ramosus,Actinocephalus ramosus (Wikstr.) Sano,Actinocephalus,0.25,,(genbank accession number to be included),,Andrino et al. submitted,,1,1
+Actinocephalus_stereophyllus,Actinocephalus stereophyllus (Ruhland) Sano,Actinocephalus,0.25,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+x,Comanthera vernonioides (Kunth) L.R.Parra & Giul.,(outgroup),not in BAMM,,(genbank accession number to be included),,Andrino et al. submitted,,(dropped),(dropped)
+Lachnocaulon_anceps,Lachnocaulon anceps (Walter) Morong,Lachnocaulon,0.33,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Lachnocaulon_beyrichianum,Lachnocaulon beyrichianum Sporl. ex K’_rn.,Lachnocaulon,0.33,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+x,Leiothrix distichoclada Herzog,(outgroup),not in BAMM,,(genbank accession number to be included),,Andrino et al. submitted,,(dropped),(dropped)
+x,Leiothrix curvifolia (Bong.) Ruhland,(outgroup),not in BAMM,,(genbank accession number to be included),,Andrino et al. submitted,,(dropped),(dropped)
+x,Leiothrix crassifolia (Bong.) Ruhland,(outgroup),not in BAMM,,(genbank accession number to be included),,Andrino et al. submitted,,(dropped),(dropped)
+Paepalanthus_acantholimon,Paepalanthus acantholimon Ruhland,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_acanthophyllus,Paepalanthus acanthophyllus Ruhland,Diphyomene,0.8,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_acuminatus,Paepalanthus acuminatus Ruhland,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_albiceps,Paepalanthus albiceps Silveira,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_albovaginatus,Paepalanthus albovaginatus Silveira,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_almasensis,Paepalanthus almasensis Moldenke,Dimeri,0.8,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_alpestris,Paepalanthus alpestris (K’_rn.) Tissot-Sq.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_alpinus,Paepalanthus alpinus K’_rn.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+x,Paepalanthus alsinoides C.Wright,GenNov3,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,(dropped),(dropped)
+Paepalanthus_amoenus,Paepalanthus amoenus (Bong.) K’_rn.,Diphyomene,0.8,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_andicola,Paepalanthus andicola K’_rn.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_aretioides,Paepalanthus aretioides Ruhland,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_argenteus,Paepalanthus argenteus (Bong.) K’_rn.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_argyrotrychus,Paepalanthus argyrotrychus ,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+x,Paepalanthus aristatus Moldenke,GenNov3,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,(dropped),(dropped)
+Paepalanthus_augustus,Paepalanthus augustus Silveira,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_baraunensis,Paepalanthus baraunensis Silveira,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_barbulatus,Paepalanthus barbulatus Herzog,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_bifidus,Paepalanthus bifidus (Schrad. ex Schult.) Kunth,GenNov3,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,1
+Paepalanthus_bonsai,Paepalanthus bonsai Trov’_ & Sano,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_brevicaulis,Paepalanthus brevicaulis Silveira,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_bromelioides,Paepalanthus bromelioides Silveira,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_bryoides,Paepalanthus bryoides (Riedel ex Bong.) Kunth,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+x,Paepalanthus bryoides (Riedel ex Bong.) Kunth,,not in BAMM,,(genbank accession number to be included),,Andrino et al. submitted,,OUT,OUT
+Paepalanthus_caldensis,Paepalanthus caldensis Malme,Cryptanthella,0.8,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_calvulus,Paepalanthus calvulus (Ruhland) Hensold,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_calvus,Paepalanthus calvus K’_rn.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_camptophyllus,Paepalanthus camptophyllus Ruhland,Actinocephalus,0.25,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_canastrensis,Paepalanthus canastrensis Silveira,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_canescens,Paepalanthus canescens (Bong.) K’_rn.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_caparoensis,Paepalanthus caparoensis Ruhland,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_capillifolius,Paepalanthus capillifolius Moldenke,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_carvalhoi,Paepalanthus carvalhoi Giul. & E.B.Miranda,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_catharinae,Paepalanthus catharinae Ruhland,Cryptanthella,0.8,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_celsus,Paepalanthus celsus Tissot-Sq.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_chiquitensis,Paepalanthus chiquitensis Herzog,Diphyomene,0.8,,(genbank accession number to be included),,Andrino et al. submitted,,1,1
+Paepalanthus_chrysolepis,Paepalanthus chrysolepis Silveira,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_chrysophorus,Paepalanthus chrysophorus Silveira,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_ciliolatus,Paepalanthus ciliolatus Ruhland,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_cinereus,Paepalanthus cinereus Giul. & L.R.Parra,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_comans,Paepalanthus comans Silveira,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_complanatus,Paepalanthus complanatus Silveira,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_contasensis,Paepalanthus contasensis Moldenke,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_cordatus,Paepalanthus cordatus Ruhland,Diphyomene,0.8,,(genbank accession number to be included),,Andrino et al. submitted,,1,1
+Paepalanthus_costaricensis,Paepalanthus costaricensis Moldenke ex Standl.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_crassicaulis,Paepalanthus crassicaulis K’_rn.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_crinitus,Paepalanthus crinitus Tissot-Sq.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_dasynema,Paepalanthus dasynema Ruhland,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_dendroides,Paepalanthus dendroides (Kunth) Kunth,Cryptanthella,0.8,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_diamantinensis,Paepalanthus diamantinensis Moldenke,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+x,Paepalanthus dichotomus Klotzsch ex K’_rn.,,not in BAMM,,(genbank accession number to be included),,Andrino et al. submitted,,(dropped),(dropped)
+Paepalanthus_digitiformis,Paepalanthus digitiformis Hensold,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_diplobetor,Paepalanthus diplobetor Ruhland,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_distichophyllus,Paepalanthus distichophyllus Mart.,Dyostiche,0.8,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_echinoides,Paepalanthus echinoides ,Conodiscus,1,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_elongatus,Paepalanthus elongatus (Bong.) K’_rn.,Dimeri,0.8,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_ensifolius,Paepalanthus ensifolius (Kunth) Kunth,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_erectifolius,Paepalanthus erectifolius Silveira,Diphyomene,0.8,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_erigeron,Paepalanthus erigeron Mart. ex K’_rn.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_eriophaeus,Paepalanthus eriophaeus Ruhland,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_exiguus,Paepalanthus exiguus (Bong.) K’_rn.,Conodiscus,1,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_extremensis,Paepalanthus extremensis Silveira,Dimeri,0.8,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_falcatus,Paepalanthus pedunculatus (Bong.) Ruhland,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_farinaceus,Paepalanthus farinaceus ,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_fasciculatus,Paepalanthus fasciculatus (Rottb.) Kunth,GenNov3,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_fasciculifer,Paepalanthus fasciculifer Silveira,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_flavorutilus,Paepalanthus flavorutilus Ruhland,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_fraternus,Paepalanthus fraternus N.E.Br.,Monosperma,0.4,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_freyreissii,Paepalanthus freyreissii (Thunb.) K’_rn.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_fulgidus,Paepalanthus fulgidus Moldenke,Monosperma,0.4,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_glabrifolius,Paepalanthus glabrifolius Ruhland,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_glaziovii,Actinocephalus falcifolius (K’_rn.) Sano,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_globulifer,Paepalanthus planifolius (Silveira) Moldenke & L.B.Sm.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,1
+Paepalanthus_guaraiensis,Paepalanthus guaraiensis Moldenke,Clade1,0.7,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_harleyi,Paepalanthus harleyi Moldenke,Dimeri,0.8,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_harmsii,Paepalanthus harmsii Ruhland,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_hydra,Paepalanthus hydra Ruhland,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_implicatus,Paepalanthus implicatus Silveira,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_itambeensis,Paepalanthus itambeensis Silveira,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_itatiaiensis,Paepalanthus itatiaiensis Ruhland,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_jahnii,Paepalanthus supinus K’_rn.,GenNov3,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_klotzschianus,Paepalanthus klotzschianus K’_rn.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,1
+Paepalanthus_lamarckii,Paepalanthus lamarckii Kunth,GenNov1,0.8,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_latifolius,Paepalanthus latifolius K’_rn.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_latipes,Paepalanthus latipes Silveira,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_leucoblepharus,Paepalanthus leucoblepharus K’_rn.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_leucocephalus,Paepalanthus leucocephalus Ruhland,Conodiscus,1,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_lindenii,Paepalanthus lindenii Ruhland,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_lodiculoides,Paepalanthus lodiculoides Moldenke,Cryptanthella,0.8,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_longibracteatus,Paepalanthus longibracteatus ,Dimeri,0.8,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_longivaginatus,Paepalanthus longivaginatus Tissot-Sq.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_lundii,Paepalanthus lundii K’_rn.,Clade1,0.7,,(genbank accession number to be included),,Andrino et al. submitted,,1,1
+Paepalanthus_macaheensis,Paepalanthus ovatus K’_rn.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_macrocaulon,Paepalanthus macrocaulon Silveira,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_macrocaulon_var_contasensis,Paepalanthus macrocaulon Silveira,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_macrocaulon_var_kingii,Paepalanthus macrocaulon Silveira,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_macrocephalus,Paepalanthus macrocephalus (Bong.) K’_rn.,Actinocephalus,0.25,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_macropodus,Paepalanthus macropodus Ruhland,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_maculatus,Paepalanthus maculatus Silveira,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_melaleucus,Paepalanthus melaleucus (Bong.) Kunth,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,1
+Paepalanthus_mendoncianus,Paepalanthus mendoncianus Ruhland,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_meridensis,Paepalanthus meridensis Klotzsch ex K’_rn.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_microphyllus,Paepalanthus microphyllus (Guill.) Kunth,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_modestus,Paepalanthus modestus ,Dimeri,0.8,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_moedensis,Paepalanthus moedensis Silveira,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_mollis_var_itambeensis,Paepalanthus mollis Kunth,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_montanus,Paepalanthus montanus Silveira,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_multistellaris,Paepalanthus multistellaris ,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_neglectus,Paepalanthus neglectus K’_rn.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_niger,Paepalanthus niger ,Dimeri,0.8,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_nigrescens,Paepalanthus nigrescens Silveira,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_nipensis,Paepalanthus nipensis Gonz.G’©igel,GenNov2,0.8,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_obconicus,Paepalanthus obconicus Silveira,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_oblongifolius,Paepalanthus oblongifolius Giul. & E.B.Miranda,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_obtusifolius,Paepalanthus obtusifolius (Steud.) K’_rn.,GenNov1,0.8,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_orthogonalis,Paepalanthus orthogonalis Silveira,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_ovatus,Paepalanthus ovatus K’_rn.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_paramensis,Paepalanthus paramensis Moldenke,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_petraeus,Paepalanthus petraeus K’_rn.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_pilosus,Paepalanthus pilosus (Kunth) Kunth,Cryptanthella,0.8,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_planifolius,Paepalanthus planifolius (Bong.) K’_rn.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,1
+Paepalanthus_plumosus,Paepalanthus plumosus (Bong.) K’_rn.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_polycladus,Paepalanthus polycladus Silveira,Diphyomene,0.8,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_polygonus,Paepalanthus polygonus K’_rn.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_polytrichoides,Paepalanthus polytrichoides Kunth,GenNov3,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,1
+Paepalanthus_praemorsus,Paepalanthus praemorsus Ruhland,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_prostratus,Paepalanthus prostratus K’_rn.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_pubescens,Paepalanthus pubescens K’_rn.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_pulchellus,Paepalanthus pulchellus Herzog,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_pulvinatus,Paepalanthus pulvinatus N.E.Br.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_pungens,Paepalanthus pungens Griseb.,GenNov2,0.8,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_reflexus,Paepalanthus reflexus Silveira,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_regalis,Paepalanthus regalis Mart. ex K’_rn.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_regelianus,Paepalanthus regelianus K’_rn.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_repens,Paepalanthus repens (Lam.) K’_rn.,Cryptanthella,0.8,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_rupestris,Paepalanthus rupestris Gardner,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_scandens,Paepalanthus scandens Ruhland,Dyostiche,0.8,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_schlimii,Paepalanthus schlimii K’_rn.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_scholiophyllus,Paepalanthus scholiophyllus Ruhland,Clade1,0.7,,(genbank accession number to be included),,Andrino et al. submitted,,1,1
+Paepalanthus_schomburgkii,Paepalanthus schomburgkii Klotzsch ex K’_rn.,Monosperma,0.4,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_scirpeus,Paepalanthus scirpeus Mart. ex K’_rn.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+x,Paepalanthus scirpeus Mart. ex K’_rn.,,not in BAMM,,(genbank accession number to be included),,Andrino et al. submitted,,(dropped),(dropped)
+Paepalanthus_scleranthus,Paepalanthus scleranthus Ruhland,Conodiscus,1,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_septentrionalis,Paepalanthus septentrionalis ,Monosperma,0.4,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_serpens,Paepalanthus serpens ,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_serrinhensis,Paepalanthus serrinhensis Silveira,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_sessiliflorus,Paepalanthus sessiliflorus (Mart.) Mart. ex K’_rn.,GenNov3,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,1
+Paepalanthus_silveirae,Paepalanthus silveirae Ruhland,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+x,Paepalanthus sp ,,not in BAMM,,(genbank accession number to be included),,Andrino et al. submitted,,(dropped),(dropped)
+x,Paepalanthus sp ,,not in BAMM,,(genbank accession number to be included),,Andrino et al. submitted,,(dropped),(dropped)
+Paepalanthus_spathulatus,Paepalanthus spathulatus K’_rn.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_sphaerocephalus,Paepalanthus sphaerocephalus Ruhland,Conodiscus,1,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_spixianus,Paepalanthus spixianus Mart.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_stannardii,Paepalanthus stannardii Giul. & L.R.Parra,Dyostiche,0.8,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_stegolepoides,Paepalanthus stegolepoides Moldenke,Monosperma,0.4,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_subcaulescens,Paepalanthus subcaulescens N.E.Br.,Monosperma,0.4,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_subfalcatus,Paepalanthus subfalcatus Ruhland,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_subfalcatus_var_villosus,Paepalanthus subfalcatus Ruhland,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_subtilis,Paepalanthus subtilis Miq.,GenNov3,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,1
+Paepalanthus_superbus,Paepalanthus superbus Ruhland,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_tortilis,Paepalanthus tortilis (Bong.) Mart. ex K’_rn.,GenNov1,0.8,,(genbank accession number to be included),,Andrino et al. submitted,,1,1
+Paepalanthus_trichopetalus,Paepalanthus trichopetalus K’_rn.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_trichophyllus,Paepalanthus trichophyllus (Bong.) K’_rn.,Dimeri,0.8,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_tuberosus,Paepalanthus tuberosus (Bong.) Kunth,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_urbanianus,Paepalanthus urbanianus Ruhland,Diphyomene,0.8,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_vaginatus,Syngonanthus fischerianus (Bong.) Ruhland,Dimeri,0.8,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_vellozioides,Paepalanthus vellozioides K’_rn.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_velutiphyllus,Paepalanthus velutiphyllus ,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_venustus,Paepalanthus venustus Moldenke,Monosperma,0.4,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Paepalanthus_villosulus,Paepalanthus villosulus Mart. ex K’_rn.,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_viridipes,Paepalanthus polytrichoides Kunth,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_viridulus,Paepalanthus viridulus Ruhland,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Paepalanthus_xanthopus,Paepalanthus xanthopus Silveira,Paepalanthus,0.5,,(genbank accession number to be included),,Andrino et al. submitted,,1,0
+Rondonanthus_capillaceus,Rondonanthus capillaceus (Klotzsch ex K’_rn.) Hensold & Giul.,(outgroup),not in BAMM,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Rondonanthus_roraimae,Rondonanthus roraimae (Oliv.) Herzog,(outgroup),not in BAMM,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Syngonanthus_arenarius,Syngonanthus arenarius (Gardner) Ruhland,(outgroup),not in BAMM,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Syngonanthus_caulescens,Syngonanthus caulescens (Poir.) Ruhland,(outgroup),not in BAMM,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
+Tonina_fluviatilis,Tonina fluviatilis Aubl.,Tonina,1,,(genbank accession number to be included),,Andrino et al. submitted,,0,1
